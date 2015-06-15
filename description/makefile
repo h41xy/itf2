@@ -1,6 +1,6 @@
 projectDescription: projectDescription.tex
-	rm *.aux *.log
+	rm -f *.aux *.log
 	pdflatex -file-line-error projectDescription.tex
 	pdflatex projectDescription.tex
 	pdflatex projectDescription.tex
-	rm *.aux *.log
+	rm -f *.aux *.log

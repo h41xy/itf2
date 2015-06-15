@@ -42,6 +42,7 @@ twoside%,
 %	urlcolor=SkyBlue,
 %	linkcolor=orange
 %}
+\pdfcompresslevel=9
 
 %\usepackage{longtable}  %% Support for tables longer than a page.
 %% Generally easier to use and more flexible than supertabular.
@@ -69,7 +70,7 @@ twoside%,
 \and{Urs Oberdorf}
 \thanks{urs.oberdorf@autistici.org}
 \and{Stephan Wendt}
-\thanks{foo@mailinator.com}}
+\thanks{stephanwendt@freenet.de}}
 %\email{bar@mailinator.com}
 %\institution{HTW des Saarlandes}
 \date{01.07.2015}
@@ -97,7 +98,7 @@ twoside%,
 \item "Boot-Sektor-Virus"
 \item gefälschter Netzwerkadapter mit DHCP-Server
 \item FTP-Server
-\item alles verfälschen, was auf dem Stick gespeichert werden soll
+\item alles verfälschen, was auf dem Stick gespeichert werden soll - Abwehr: Stick komplett mit Truecrypt/LUKS verschlüsseln
 \end{itemize}
 
 
@@ -110,6 +111,10 @@ Problem ist aber, irgendeine Tastatur muss zugelassen werden, zum Zeitpunkt
 an dem das BIOS den Rechner an das OS übergibt, welche sollte das sein?
 Vielleicht nach dem BIOS keine Tastatureingaben zulassen, bis eine Passworteingabe verlangt wird (entweder vom Bootloader oder vom Betriebssystem) und die Tastatur, die dann das richtige Passwort eingibt, ist die erlaubte Tastatur)
 Wie würde man es mit der Maus machen?
+Tastatur nur an bestimmtem Port zulassen?
+\item Sollte man Bestätigungsdialoge beim Anschließen von neuer
+	USB-Hardware einblenden, so dürfen diese nur von Menschen bedienbar
+	sein (CAPTCHA).
 \item Stick direkt beim Anstecken mit sauberer Firmware überschreiben? - Klappt
   wahrscheinlich nicht, weil das Betriebssystem das auf der USB-Stick-CPU
 läuft, wahrscheinlich sich dazwischen schalten kann
@@ -119,6 +124,10 @@ Ist es irgendwie feststellbar, dass es doch mal ein USB-Stick war, bevor die man
 \item FreeBSD adds an option to switch off USB enumeration.
 \item Vielleicht alle erlaubten USB-Geräte so umflashen, dass sie sich eindeutig identifizieren?
 \item Offene Hardware und Firmware, und USB-Geräte, die man zuverlässig mit der eigenen signierten Firmware flashen kann
+\item Wie kann man verhindern, dass die eigenen USB-Geräte (Sticks, etc.),
+	die man an fremde Rechner anschließt, infiziert werden?
+\item Nur Flashspeicher verwenden, der komplett vom Betriebssystem
+	gesteuert wird.
 \end{itemize}
 
 
@@ -130,4 +139,7 @@ Ist es irgendwie feststellbar, dass es doch mal ein USB-Stick war, bevor die man
 \item Versuchen, mit forensischen Methoden einen Angriff per USB-Gerät
   festzustellen
 \end{itemize}
+\url{http://www.crypto-fuer-alle.de/wishlist/hardware-usb-filter/}
+\url{http://theinvisiblethings.blogspot.de/2011/06/usb-security-challenges.html}
+\url{https://github.com/adamcaudill/Psychson}
 \end{document}
