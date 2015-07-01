@@ -1,21 +1,18 @@
-\chapter{USB - Eine kurze Einführung}
+\section{USB - Eine kurze Einführung}
 In der Mitte der neunziger Jahre entwickelte ein Firmenkonsortium den \textit{Universal Serial Bus}.
 Er sollte einen Standart für den Anschluss von Peripheriegeräten bieten und wurde ein Erfolg.
 Heute finden sich an nahezu jedem Peripheriegerät eine USB Schnittstelle.
 
 Wie im Namen enthalten, handelt es sich um ein Bus System welches einen Mechanismus benötigt, die Kommunikation zu steuern.
 Im Fall des USB Standarts ist das der auf der Hauptplatine verbaute Host-Controller der angeschlossenen Geräten u.a. das Senden von Daten erlaubt.
-Das bedeutet, dass ein per USB angeschlossenes Geraet nur dann Daten senden kann wenn es von dem Host-Controller abgefragt wird.
+Das bedeutet, dass ein per USB angeschlossenes Gerät nur dann Daten senden kann wenn es von dem Host-Controller abgefragt wird.
 
 Sobald an einen USB-Port ein Gerät angeschlossen wird, sendet der Host-Controller ein USB-Reset Signal an das Betreffende Gerät.
 Dieses wird dadurch aufgefordert sich neu zu konfigurieren und seinen \textit{Device Descriptor} zu senden.
-Dieser Deskriptor enthaelt Informationen ueber die Klasse des Geraets, also als welches Geraet es sich selbst anmelden moechte sowie welcher Treiber dafuer geladen werden soll.
-Fuer das senden dieses Deskriptors ist die Firmware auf dem Chip verantwortlich.
-Wenn diese manipuliert wurde kann sich das Geraet, z.B. ein USB-Stick, auch als
-Tastatur identifizieren und beginnen Eingabesignale zu senden wie eine normale
-Tastatur.
-Die Spezifikation ist ausserdem so ausgelegt, dass sich Geräte auch mit einem
-Interface Deskriptor anmelden können und somit zwei Geräte gleichzeitig sein
-können.
-Gewünscht ist dieser Fall bei z.B. Webcams welche sich als Audio aber auch Video
-Gerät anmelden.
+Dieser Deskriptor enthält Informationen über die Klasse des Geräts, also als welches Gerät es sich selbst anmelden möchte sowie welcher Treiber dafür geladen werden soll.
+Für das senden dieses Deskriptors ist die Firmware auf dem Chip verantwortlich.
+Wenn diese manipuliert wurde kann sich das Gerät, z.B. ein USB-Stick, auch als Tastatur identifizieren und beginnen Eingabesignale zu senden wie eine normale Tastatur.
+Die Spezifikation ist ausserdem so ausgelegt, dass sich Geräte auch mit einem \textit{Interface Deskriptor} anmelden können und somit zwei Geräte gleichzeitig sein können.
+Gewünscht ist dieser Fall bei z.B. Webcams welche sich als Audio aber auch Video Gerät anmelden.
+Dies ist nur ein Beispiel was mit einer Firmwaremanipulation möglich ist.
+Alles was per USB angeschlossen werden kann, kann von einem anderen USB-Gerät über seine imitiert werden.
