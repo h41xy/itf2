@@ -1,0 +1,1 @@
+diff --suppress-common-lines -c0 base_sort.txt hello_sort.txt | cut -d ',' -f 1,4 > diffcut_base_hello.txt
