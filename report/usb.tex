@@ -3,7 +3,12 @@ In der Mitte der neunziger Jahre entwickelte ein Firmenkonsortium den \textit{Un
 Er sollte einen Standart für den Anschluss von Peripheriegeräten bieten und wurde ein Erfolg.
 Heute finden sich an nahezu jedem Peripheriegerät eine USB Schnittstelle.
 
-Wie im Namen enthalten handelt es sich um ein Bus System welches einen Mechanismus benötigt die Kommunikation zu steuern.
+Wie im Namen enthalten, handelt es sich um ein Bus System welches einen Mechanismus benötigt, die Kommunikation zu steuern.
 Im Fall des USB Standarts ist das der auf der Hauptplatine verbaute Host-Controller der angeschlossenen Geräten u.a. das Senden von Daten erlaubt.
-Sobald an einen Port ein Gerät angeschlossen wird, sendet der Host-Controller ein USB-Reset Signal an das Betreffende Gerät.
+Das bedeutet, dass ein per USB angeschlossenes Geraet nur dann Daten senden kann wenn es von dem Host-Controller abgefragt wird.
+
+Sobald an einen USB-Port ein Gerät angeschlossen wird, sendet der Host-Controller ein USB-Reset Signal an das Betreffende Gerät.
 Dieses wird dadurch gezwungen sich neu zu konfigurieren und seinen \textit{Device Descriptor} zu senden.
+Dieser Deskriptor enthaelt Informationen ueber die Klasse des Geraets, also als welches Geraet es sich selbst anmelden moechte sowie welcher Treiber dafuer geladen werden soll.
+Fuer das senden dieses Deskriptors ist die Firmware auf dem Chip verantwortlich.
+Wenn diese manipuliert wurde kann sich das Geraet, z.B. ein USB-Stick, auch als Tastatur identifizieren und beginnen 
