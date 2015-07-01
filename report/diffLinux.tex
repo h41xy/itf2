@@ -1,0 +1,37 @@
+\section{hashdeep mit Linux}
+Nachdem die Festplattenimages mit \textit{dd} erstellt und ge\textit{mount}et wurden, muss nun verglichen werden was sich geändert hat.
+Dazu wird von jeder Datei des Festplattenimages die MD5 Summe erstellt und in eine Datei geschrieben.
+Dieser Vorgang wird für die Festplattenimages nach der Kompromitierung wiederholt.
+Daraufhin vergleicht man die MD5 / Dateinamen Paare der beiden Dateien und erhält eine Liste derer die verändert wurden.
+
+Vorrausgesetzt die Images sind nach /mnt/base, /mnt/hello und /mnt/ftp gemounted lauten die Konsoleneingaben wie folgt:
+\begin{lstlisting}
+cd /mnt/base
+hashdeep -r -l -e -o f . > /var/tmp/base_hashdeep.txt
+\end{lstlisting}
+\underline{Hinweis:} Die relative Pfadangabe funktioniert nur wenn man sich im Stammverzeichniss der zu prüfenden Dateistruktur befindet.\\[3mm]
+Die Schalter bedeuten rekursiv(-r), relative Pfadangabe(-l), (Datei-)fortschritt(-e) und die Option nur normale Dateien zu bearbeiten(-o f).
+In Unserem Fall blieb der Prozess bei ca. 30\% hängen ohne die Option nur normale Dateien zu bearbeiten.
+Wir haben nicht weiter daran geforscht, vermuten aber dass der Prozess versucht die MD5 Summe einer \textit{pipe} zu berechnen und durch das Fehlen einer EOF nicht weitermacht.
+
+Da \textit{hashdeep} mehrere Threads startet ist die Reihenfolge der \textit{MD5 / Dateinamen} Paare nicht immer die selbe, deshalb haben wir eine anschliessende Sortierung nach Dateinamen vorgenommen.
+\begin{lstlisting}
+sort -t ',' -k 4 /var/tmp/base_hashdeep.txt > /var/tmp/basesort_hashdeep.txt
+\end{lstlisting}
+
+Die obigen Schritte müssen für alle Images durchgeführt werden.
+
+Ist dies erfolgt, so koennen die Ausgabedateien nun auf Unterschiede überprüft werden.
+\begin{lstlisting}
+diff basesort_hashdeep.txt hellosort_hashdeep.txt > diff_base_hello.txt
+\end{lstlisting}
+Die Ausgabe kann noch  durch 
+\begin{lstlisting}
+cut -d ',' -f 1,4 
+\end{lstlisting}
+geleitet werden um ein wenig mehr Übersicht zu erhalten.
+Für ein weiteres Maß an Übersicht kann es Anschliessend noch durch
+\begin{lstlisting}
+sort -t ',' -f 2 
+\end{lstlisting}
+geleitet werden um Dateigrößenunterschiede schneller zu erkennen.
