@@ -50,17 +50,17 @@ twoside%,
 %\usepackage{expdlist}
 %\usepackage{enumerate} %%flexible (alphanumerische) Nummerierungen
 
-%\usepackage{listings} %% pretty printing of source code
-%
-%\lstset{
-%language=[ANSI]C,
-%basicstyle=\ttfamily,
-%keywordstyle=\color{green}\textbf,
-%stringstyle=\color{red},
-%commentstyle=\color{cyan}\textit,
-%tabsize=2,
-%tab=\rightarrowfill
-%}
+\usepackage{listings} %% pretty printing of source code
+
+\lstset{
+language=bash,
+basicstyle=\ttfamily,
+keywordstyle=\color{green}\textbf,
+stringstyle=\color{red},
+commentstyle=\color{cyan}\textit,
+tabsize=2,
+tab=\rightarrowfill
+}
 
 \usepackage{graphicx}
 
@@ -107,7 +107,7 @@ twoside%,
 \end{itemize}
 
 
-
+\include{usb}
 
 \subsection{Abwehrmöglichkeit}
 \begin{itemize}
@@ -135,6 +135,7 @@ Ist es irgendwie feststellbar, dass es doch mal ein USB-Stick war, bevor die man
 	gesteuert wird.
 \end{itemize}
 
+\include{diffLinux}
 
 \subsection{Projektrichtung}
 \begin{itemize}

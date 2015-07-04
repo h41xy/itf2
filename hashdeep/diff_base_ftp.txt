@@ -1,0 +1,519 @@
+4c4
+< ## Invoked from: /mnt/base
+---
+> ## Invoked from: /mnt/ftp
+48,52c48,57
+< 4,8e59278233ffcd56fbb401d2be6b881d,41150275a1b9cd07cb7b1ca9f3e3afa7e420859c128cc754512d3a3b648cfb92,./ProgramData/Microsoft/RAC/StateData/RacMetaData.dat
+< 314,a519e35f65961c57ce64e3731bf13a76,d1467c881956ef0c256aada1357139cc2dbc39d30625cdb6cbf0e8d2609c4385,./ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.1.Crwl
+< 558,cedfe960401a267f921326d85fbfc212,922fa9772b42c70bef9ff18ebbcb00b4e5126171b49b8b7d8838a48f45900f40,./ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.1.gthr
+< 8192,6a7cf7a2c46268b171f944686e52bf7e,2dbe5e2b5281a9eacfd4fbe71e9eb55fc47036f5d818c4bf1adb27d7a643e822,./ProgramData/Microsoft/Search/Data/Applications/Windows/MSS.chk
+< 1048576,a3ea27793106898664b33a4e45198889,c72693584464291cfe44212ff7cc29bf55cbc18521d3c89014f18420f9c2f8ad,./ProgramData/Microsoft/Search/Data/Applications/Windows/MSS.log
+---
+> 348160,7a8126e53cb689bd428e9ddea6467cad,3942863e2ed8a1fded300aea51cd24f51616e5406d2346bdc7581cbf2d5d9a0a,./ProgramData/Microsoft/RAC/PublishedData/RacWmiDatabase.sdf
+> 544768,87695622fa3eb948068e1ce0c0f7de21,0878de9aafe65a48676e032f759adae17986d4296edf50e0f6989bf44127c62b,./ProgramData/Microsoft/RAC/StateData/RacDatabase.sdf
+> 8,896dd6374259bc9338e1665164458347,3465c2b485a4bf81275339119be1a79c7313fc900d2e29ff93cde1bdffc64404,./ProgramData/Microsoft/RAC/StateData/RacMetaData.dat
+> 16412,265ee68612fcf9f2c405d360439b2b5f,4ff95d076ebbe41fe1e7b009cd908e0871d113945dc266623c332b63a96b93b1,./ProgramData/Microsoft/RAC/StateData/RacWmiDataBookmarks.dat
+> 147484,0fb66cad9c523c0abef7ee354074c40c,34c9e9a51c4e99c91799a8b024cab1caeb27f40a24aecc190a54cf6fd0240e54,./ProgramData/Microsoft/RAC/StateData/RacWmiEventData.dat
+> 834,8266f936457d9cfb60ba1f50506d9400,d187de6399a10372477dfa45e75022e5857aa4392bff51cf1d3c51e16c9326d2,./ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.1.Crwl
+> 4248,cb3cc725553fd5aac418045d4588839c,28ffdbae15d6c85d2791a6838041d351e58c797debef4f6260f0a162dfcdfe4b,./ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.1.gthr
+> 1048576,5a905a21319798cddd26d3c3020b3bdb,95e08339978bc5219f5ca976336a84f380e2b8e695e7a263e5cdba7d2585a3b6,./ProgramData/Microsoft/Search/Data/Applications/Windows/MSS00002.log
+> 8192,ee6b1106300ee104502e68602e3e3157,2b3f9f6cba205703374815f62c92b0a80e39db94cd6d0b2fbe7a239c69b6737e,./ProgramData/Microsoft/Search/Data/Applications/Windows/MSS.chk
+> 1048576,fbf5ef95c2044cae98f3fc39cd91929d,876df44c1ede50240d2d25751160d67a6e5c657c33a5f71e9ea38f9abb53c9ca,./ProgramData/Microsoft/Search/Data/Applications/Windows/MSS.log
+54a60,71
+> 143360,3e2c814c145c3e0f6c4c6f075cb9ad15,547c2603497feaf1003307f0348c931ae890a20639907925eda56eae889373d6,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/00010001.ci
+> 4096,50b8a7f34f669883010c97fc6a1d34ea,2bf313b5cc36bb03d9d140fce1d34ece23005e097cf389fc310c54d30339f744,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/00010001.dir
+> 65536,078b1d11a0fc1566ea0144cf55c66ac5,f9909e95718ee61959b951435934b8b38df4e40a3b6ef4a296bb46d00076862c,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/00010001.wid
+> 24576,357d3ce091ed4b050e91285f98f4bfc3,bc0472f7da39a5b705257036c5891f6bad042b754a26b4cef400f1b99a4f5b80,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/00010002.ci
+> 4096,561d2b267597c6d57d4be59cde526fb7,2a6b0c4605d2216af13798a65f4d040e7d5e699f40e0c170cf0f83a453866fe4,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/00010002.dir
+> 65536,8627de5ee7f280ba6fc2d83309bda8f4,59fccf485a8480166cfb19eb8bab97037a2829ceef55d6a95c7399467ed0038e,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/00010002.wid
+> 45056,8554d3b89361fe09ddc0cb397e07b191,1257729e32ad68cdcb571decb528ebfbeb454e396fedeeffecc8cca9c7607db7,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/00010003.ci
+> 4096,af15cd01328c239eea46db92b68ffe14,8ce121195b86020a2223086ebae3bf003e2ff0b93adb1bd99fb2733478f327ef,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/00010003.dir
+> 65536,f3711597f877051b19ee1a3e600bb439,d838f3bcee6bcf3dd7f12a3df0fdd8adbb2316c6d19a45c831d724bf344c6dc3,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/00010003.wid
+> 4096,f5e775c6c25fe2bbf8eeb3722ff84f4c,8e4d17d12a454608af3127a54a479ea143f3eebf7e5be13295ea51043c66a228,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/00010004.ci
+> 4096,363f810a525f061eb6c2b546a809eca5,3d4df198e1dd790f83e808a34025f6e5789cf089b5e5bf977e6a4fcb96c491cd,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/00010004.dir
+> 65536,75a3646e020e286ef52bb4b3b4302ef0,65de71a2c9cfa5c08b2c2444cb1b55bd10fcf078604502980d796c5f5286993d,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/00010004.wid
+64,66c81,83
+< 240,023d87454619d85a090724584853cc2e,3af0202ed8f8df6099e006dc65dbc1d9cbb289231e15a61deae096761e9c3670,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/INDEX.000
+< 65536,de93b5e5159d1b0813fabea89744a118,d937773925792c1b2d2bf92d5ad0bd22bf6904f1c711d178e6946d90d901c28e,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/INDEX.001
+< 65536,de93b5e5159d1b0813fabea89744a118,d937773925792c1b2d2bf92d5ad0bd22bf6904f1c711d178e6946d90d901c28e,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/INDEX.002
+---
+> 240,362e74d2808ec22194bbc11d17d721c9,44368bc7740d88dc09f0b85929a02949a2272a740cc76ef31042d1dc79e76976,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/INDEX.000
+> 65536,6b50b5c9f67566181855ca950244479c,797a82f3ab50b7ccbca98b0bd55b31c884d9116ed73fd567a9af90a20eb1b354,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/INDEX.001
+> 65536,6b50b5c9f67566181855ca950244479c,797a82f3ab50b7ccbca98b0bd55b31c884d9116ed73fd567a9af90a20eb1b354,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/INDEX.002
+68,74c85,91
+< 240,256a7e1267a821997d03225c7db29f2b,4266a37d4b2078a2154a5e2752fe8aa5e2b57a5522e4a1f6b98d946d885e312e,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/PropMap/CiPT0000.000
+< 65536,c98a6cd8250be322663465094b5d7f80,8bfc94b9fca64846892247e84fdeace70be3ae82727f9d2e694158184ae2b22a,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/PropMap/CiPT0000.001
+< 65536,c98a6cd8250be322663465094b5d7f80,8bfc94b9fca64846892247e84fdeace70be3ae82727f9d2e694158184ae2b22a,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/PropMap/CiPT0000.002
+< 240,78cff7ebc3cb9169f1929f1703867c25,52938b086a353b67e6a6603d44568e92095509b086f057e5b3a8d18f5733fb8b,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/SecStore/CiST0000.000
+< 65536,3d2bc68b38a14b9d144ee0d9f4e25d82,76652b2ec67478a384ce1e4f8ea30782ebb8a38be47157f7b5d5387da3c4fa14,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/SecStore/CiST0000.001
+< 65536,3d2bc68b38a14b9d144ee0d9f4e25d82,76652b2ec67478a384ce1e4f8ea30782ebb8a38be47157f7b5d5387da3c4fa14,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/SecStore/CiST0000.002
+< 75563008,1ff45c5bb6c619210d94201b0af39c65,3903bc093a91bde976845f5d452f67accb0d3ebb5e1abab994af6d67d272a3d1,./ProgramData/Microsoft/Search/Data/Applications/Windows/Windows.edb
+---
+> 240,35547a2acd42f809f0f59d888ec2c281,a560c996fb9ec54965eea08616e9a27bcd46839fe9efbd28ba0235d7365fe71e,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/PropMap/CiPT0000.000
+> 65536,16b698f86280703f0d612857ad7b1038,97a4bd7d9795f8405a04096b9c23396aca98e445ead13daa070779268f10b817,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/PropMap/CiPT0000.001
+> 65536,16b698f86280703f0d612857ad7b1038,97a4bd7d9795f8405a04096b9c23396aca98e445ead13daa070779268f10b817,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/PropMap/CiPT0000.002
+> 240,47dc7237a66bb95639026cd8449936c1,6f85c3b145053a676f1b5e1957a6b2562554db74e5ad05060aa411319b03d1f1,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/SecStore/CiST0000.000
+> 65536,d8b1bec547f507c8e55edba3e7768a1c,d68d58ca2879e6ded25fa743a078daf3b024a6b1479e1cee44d2bb4ef6419ba5,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/SecStore/CiST0000.001
+> 65536,d8b1bec547f507c8e55edba3e7768a1c,d68d58ca2879e6ded25fa743a078daf3b024a6b1479e1cee44d2bb4ef6419ba5,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/SecStore/CiST0000.002
+> 42008576,5f777c201eb6835dfdd24e037a2021f4,1689f439dffd54a230b0bf9c4795c7a51c145ed5f736ac438dd4362ff7deb1d5,./ProgramData/Microsoft/Search/Data/Applications/Windows/Windows.edb
+119c136
+< 7194,5407f01fa692b0a783d0d22a39240bcd,b7bdc7dab0f3372638126145d2f5684d8de4d54e5b1574c03f8563edb2681139,./ProgramData/Microsoft/Windows Defender/Support/MPLog-07132009-211939.log
+---
+> 8798,f7b845db7dc088c6f428e29bc2aeedf4,3c50794e6eb98a7efe66b14f23ec7f2c1fab083b8bcdc2681841054915b8fba0,./ProgramData/Microsoft/Windows Defender/Support/MPLog-07132009-211939.log
+1163,1164c1180,1181
+< 262144,c3f55847e5202f406b2e5a65fb584460,9f7be73bfb6aa117ccd2a4ac607972214e1955d7ecc75739f976050e587e478a,./System Volume Information/Syscache.hve
+< 37888,2bce7e946b41ef2135c546e69e51a59b,0857daf282dd22a735427df0c31670cf87a24622d440648f27b66c3ad9d1b863,./System Volume Information/Syscache.hve.LOG1
+---
+> 262144,08f66a076b1c394ebb2b404a4b9d4531,103f11c9f1a8ac5c2d34be08d98b8e912898ae3befda465021c450102c8575e8,./System Volume Information/Syscache.hve
+> 37888,190cff4f3e6a53efcbddf6f5ee096a13,bb01225996ac7c2b0329e92df6b76aa82fd4f69330fbb307459f3362e5f79299,./System Volume Information/Syscache.hve.LOG1
+1199c1216
+< 777534,de683d497ebd2ffecb4675d4840e92f0,7d94efff178c22f57354d48ed157973a7e296222e78e17e42abac6e3ed100def,./Users/itf/AppData/Local/IconCache.db
+---
+> 784535,6fd7f69075dc9c668bf6baeb1edba9bd,12ad82f7bf9ee1164d20d7f12871ae18607d141663c312066f4548b719d41abc,./Users/itf/AppData/Local/IconCache.db
+1214c1231,1232
+< 16384,b0a9288ad50db73b37e6555d1056b77a,62efe9691a320a61614e9e8c0bbbafd104884fe5b2d9d31a4230627c58653216,./Users/itf/AppData/Local/Microsoft/Windows/Caches/cversions.1.db
+---
+> 120888,b80b38fe963739379c4b14e4ea530aaf,401ca8feaa3e2f0da6f0d67f4358171b6c4a131cb993172d2e69d9f7f976d961,./Users/itf/AppData/Local/Microsoft/Windows/Caches/{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000002.db
+> 16384,11f5e45e7bd8eebd637a3ea214b39da0,3b34a04d422fe6521e88ee7bfb63037df88bc75d8c07308b34bb4ded4ff1b0b9,./Users/itf/AppData/Local/Microsoft/Windows/Caches/cversions.1.db
+1216c1234
+< 16384,e1d84a70e26b6a2278fa0c0a781916b5,c5e11a5d299e0d5830b8b33ef4bb506e294a042d4eb67a6195b69db7c41ef979,./Users/itf/AppData/Local/Microsoft/Windows/Explorer/ExplorerStartupLog_RunOnce.etl
+---
+> 16384,ee55887c84eee1307be1a96db9505ef0,926f27f80f58d26196bde588ab4917fc9139a8a6060e876947a45ee433124f29,./Users/itf/AppData/Local/Microsoft/Windows/Explorer/ExplorerStartupLog_RunOnce.etl
+1218c1236
+< 1048576,77b223d91ff5ce225fc54bc692431512,c6292f08dee9d164241f178fcb66b1127949acd003f2d4886d24fda6eb15cd6e,./Users/itf/AppData/Local/Microsoft/Windows/Explorer/thumbcache_256.db
+---
+> 1048576,8fbe863f05fd1ab2acdf5878c935debc,30ffc4d790aa03ca186b3569d5ddb026fe85379073f91fb4c32b154fa1c47880,./Users/itf/AppData/Local/Microsoft/Windows/Explorer/thumbcache_256.db
+1220,1221c1238,1239
+< 24,3e9c4eaba2c54dfe525197d54dc10532,05da3daa836dc6ed72144dff35f8d90396b4d524dc35ef8d8cd01d86855be858,./Users/itf/AppData/Local/Microsoft/Windows/Explorer/thumbcache_96.db
+< 3256,1189405c02faa943409c5a30c9f405fc,4715bb382282a3a46b59c81411268dbc681043c1d5afa6f4f4660c24a96befd1,./Users/itf/AppData/Local/Microsoft/Windows/Explorer/thumbcache_idx.db
+---
+> 1048576,7daf43582fbb0f60ad81f1209239aec2,e068533a698934b422de39da972bcf78db0b575ec3d5089d44690f60beee7034,./Users/itf/AppData/Local/Microsoft/Windows/Explorer/thumbcache_96.db
+> 3256,d877e10d054c6feb88f9510eb0a861b1,d85e66f7d750e57c1fa635d5ec669a117247419b2a047a4e5ce0e8706cfdd2f1,./Users/itf/AppData/Local/Microsoft/Windows/Explorer/thumbcache_idx.db
+1296c1314
+< 262144,856d335477a28dcc4f382b1d49fe8c38,2624003c4b1b3e1d9269a6cafe0a29ad3ae4aa54be415786f2f76b39433fc4f0,./Users/itf/AppData/Local/Microsoft/Windows/UsrClass.dat
+---
+> 262144,8ee0e3632e18955507abd35229cf09ba,2c5aa49972fcde1d46c161f37d8082f1bd6184bc01de9fdac9e4221210dabeb3,./Users/itf/AppData/Local/Microsoft/Windows/UsrClass.dat
+1300c1318
+< 62464,5ead50f519afaccb5b9950b19b2da75e,20fa9a8cdd821861988d1760a045cb1920e2b7ee84f0c0ddbe54cb521192e31a,./Users/itf/AppData/Local/Microsoft/Windows/UsrClass.dat.LOG1
+---
+> 95232,ec1cf0dc37b88d537f003c3e73f7aeaa,a9fc807e4a3aabd3fb159646be1d40a7432b0e3ba43d711f05686abbb8fc27cb,./Users/itf/AppData/Local/Microsoft/Windows/UsrClass.dat.LOG1
+1301a1320,1321
+> 2090,b1f7485708e98fd02dbe911b4e80e13e,8e1083834e3b5c9ebe3f0931d198016af8f7092477fd6aa1d1a7b0c2a0ebffc8,./Users/itf/AppData/Local/Microsoft/Windows/WER/ReportQueue/NonCritical_x86_9d4293d7273b75136a91a5ac9c50d2ca12e4f5fa_cab_04b98066/Report.wer
+> 7601,ef757508aaed3ae01235012d56b785f1,d721ffa74000cba76a9c4642d48958fd9539398bdeebd3faec453c9fb6953977,./Users/itf/AppData/Local/Resmon.ResmonCfg
+1385c1405
+< 524288,8127cb1b07940689aaf6fae703c974ed,cba92b349f5cbc8ae6905a095d65bea5b00ecbb6391505810ccb15608037879f,./Users/itf/NTUSER.DAT
+---
+> 524288,a358fbaae6fe6d0b57a392ec218a0067,00068a9490be5a2814d21002c80bb0841365a7405ff792fb67cf92392dbd07eb,./Users/itf/NTUSER.DAT
+1389c1409
+< 262144,bf83a60810ca588cd7726b56e88ae81d,1b540db7ddbaedb1afe2b29da1013b84f7b174b7f69b8bce3cbd914d5b1b2a76,./Users/itf/ntuser.dat.LOG1
+---
+> 262144,370cf47804ea7bd5ae1b75e2974ab3f2,b0ef03c726b4af3367734e60b861ac88c8f11e546e529f7fc849d9d77c5fa703,./Users/itf/ntuser.dat.LOG1
+1419c1439
+< 10474,391aa3c3597b3dbc5808e30610a50afa,b7ab669395ce021991aaf2b204e44c14f6e9e54f37017bcbccb6df19c24d67ca,./Windows/AppCompat/Programs/RecentFileCache.bcf
+---
+> 11012,6848ca301adcaafa9753f2af82a8bda2,538fac332ac803547380da57de456a0942958d5abf8c9d9dd8fb22920804f144,./Windows/AppCompat/Programs/RecentFileCache.bcf
+1756,1757c1776,1777
+< 0,d41d8cd98f00b204e9800998ecf8427e,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,./Windows/assembly/NativeImages_v2.0.50727_32/index117.dat
+< 0,d41d8cd98f00b204e9800998ecf8427e,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,./Windows/assembly/NativeImages_v2.0.50727_32/index118.dat
+---
+> 0,d41d8cd98f00b204e9800998ecf8427e,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,./Windows/assembly/NativeImages_v2.0.50727_32/index11d.dat
+> 0,d41d8cd98f00b204e9800998ecf8427e,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,./Windows/assembly/NativeImages_v2.0.50727_32/index11e.dat
+1768a1789,1791
+> 455168,49f30a67a2505f821e6024fc3f46df1b,a987d08c9dbdd910ab9736d7536f8f4cfc61db9ec1a25186085d1128a86b4fc4,./Windows/assembly/NativeImages_v2.0.50727_32/Microsoft.GroupPoli#/1901ba5041844f16d62ecf639548c760/Microsoft.GroupPolicy.AdmTmplEditor.ni.dll
+> 286208,d3363599534ce9e573b1a9277913458f,5ff4345f3546075b51c10f8d00bdfde31a222df7ec0fc0f370c5113c6f6398f0,./Windows/assembly/NativeImages_v2.0.50727_32/Microsoft.GroupPoli#/4795e3a744b493733f9f2696a5cd8a67/Microsoft.GroupPolicy.Interop.ni.dll
+> 4071424,b1424d53c39beb2bf4831973e9f7423c,958ea8bc50b3e05f8addfef70fa385187e528a78ee00e479cafc1fa0a8626cae,./Windows/assembly/NativeImages_v2.0.50727_32/Microsoft.GroupPoli#/85e2ad8f9450cce0f286d4b0f30a6490/Microsoft.GroupPolicy.Reporting.ni.dll
+1782a1806
+> 839680,afc4f407894fccb0b46ffe673656d3a2,61f421cc7b3f0e079e73eb2af26dbfce3edc9439bbc93b0d1d9ff4c17a0c0a69,./Windows/assembly/NativeImages_v2.0.50727_32/Microsoft.Security.#/a5ec735587b0edad7c38d73be036d594/Microsoft.Security.ApplicationId.Wizards.AutomaticRuleGenerationWizard.ni.dll
+1819a1844
+> 294912,7c6374872a40af422d7f930c89ac276c,e0bafd1dc2d7866bc748d647a52c12d85c680de8d0d895566f269cd611473d43,./Windows/assembly/NativeImages_v2.0.50727_32/SecurityAuditPolici#/9f42f279254e7093355c44d5ef3f04cc/SecurityAuditPoliciesSnapIn.ni.dll
+1821a1847
+> 1351168,9e88a9072259e40dcdb92851747a39d4,661f6ae32815bde44b24e342a8a5ecacd887165135b15081b0210c2ec732fd17,./Windows/assembly/NativeImages_v2.0.50727_32/SrpUxSnapIn/abf672b5f9dd842eacdc0c004376dd7b/SrpUxSnapIn.ni.dll
+1933c1959
+< 67584,48644f1b4161596a71b18fd632df5556,6a9bf9721598e07f6ba13e9cdf7d2ad7efea5110657c8fd9761a500a52d85823,./Windows/bootstat.dat
+---
+> 67584,559df488e2b6d96d4b02e57686a00afc,5b09b653d7ea998dacf925df3984a00b7c4d0b9db56aa41da9e680714c90fd4b,./Windows/bootstat.dat
+4129,4132c4155,4158
+< 1693080,f416d514374dd6ec6e872c3ec6f5087d,172f280a0766aab33411ea4f4ad1762b7718486ccc8def44d5ee51f04a43aeef,./Windows/inf/setupapi.dev.log
+< 4896,33080f4764ce15316435c12b57d28134,be4349770d4819e291c1cce3711362f2daa19924106a9e514f2387586837d1f3,./Windows/inf/setupapi.ev1
+< 3832,4d0f8ea94a2700343c90e431267aa31c,ee261214a82d7538062deeee58d1207cd867098f7345f5bb06c6448a04275508,./Windows/inf/setupapi.ev2
+< 30720,0127f4ae7eedb40482e3402e7c13abb0,b71f29e5ad41a3f540a2d8e95d407111465fdb8f97f044277d44e1c38fd847eb,./Windows/inf/setupapi.ev3
+---
+> 1849391,a85f26c6889d2670da4a0c5e1efe3385,a82dba2286a0b6578eebc9aeca001188a4f5b927f38d8e57dcbfa885f49a7cb8,./Windows/inf/setupapi.dev.log
+> 5400,622e950966803d14e0297c6da3c37005,ce87ed57046079eae8e5679714d6ed28b2c5f45ae809e3a7339160cbdcca960b,./Windows/inf/setupapi.ev1
+> 4216,33eb6df1a5d89db973f02db978678c99,491d06ddece758d2fe3ea0df9e3a238ffda7a1c063c9998fb30095d31c69526a,./Windows/inf/setupapi.ev2
+> 30720,75c777671093939b1cd9d0eb3d1a0f3b,3858dc96756970813926788c33d6ba40c129f144c68f25981b1f84d1d7ef5232,./Windows/inf/setupapi.ev3
+4191c4217
+< 68520,0317ee09a0a2135a475e8c3df3423e1e,d8fe3d686de496f79c32bdb9978cbc875f500f9a620892be48ebccaa8a156fa6,./Windows/inf/usb.PNF
+---
+> 69336,b2c46571cdbd99f8e4fa5fc246f00bc2,99ecd831a8dcb1f931a04978016804e6a596f111923cae79ea4278a2fe67d80c,./Windows/inf/usb.PNF
+4197c4223
+< 57608,03f063c147249be4e483771307b26715,b753b8fab2833474bd8dca80143665e252c206ebcd6c35bbd97ac7d34862e7ed,./Windows/inf/usbstor.PNF
+---
+> 62176,39bf7e4fd7b52926856f52b84bc68776,65364a8ffd8d0d59e9c9923dd7488c62eaf2dcb0a3c942828303b8e4a890d97a,./Windows/inf/usbstor.PNF
+4285c4311,4312
+< 28590,46d08e3a55f007c523ac64dce6dcf478,5b15b1fc32713447c3fbc952a0fb02f1fd78c6f9ac69087bdb240625b0282614,./Windows/inf/WmiApRpl/0009/WmiApRpl.ini
+---
+> 50180,3ad331de45c1882138536ff72eb72ee6,30d47c30895c2f035e87487a839e297817f59689925d7c74a80e51ff42701e1a,./Windows/inf/WmiApRpl/0007/WmiApRpl.ini
+> 50180,3ad331de45c1882138536ff72eb72ee6,30d47c30895c2f035e87487a839e297817f59689925d7c74a80e51ff42701e1a,./Windows/inf/WmiApRpl/0009/WmiApRpl.ini
+5052c5079
+< 1155298,6564d10e43c8f915c376d5e419010d6a,79045aac4590b20c880bbe55c51cabbda3b0107b96399329641fd267354b40da,./Windows/Microsoft.NET/Framework/v2.0.50727/ngen_service.log
+---
+> 1195030,fdbab0f573be1735cbde7df2dabcf2b6,b78e85b5bad918b33b6d9fa9995685fd7421e5fab46b6acc7434153ca36ae7b8,./Windows/Microsoft.NET/Framework/v2.0.50727/ngen_service.log
+5068,5070d5094
+< 286208,d3363599534ce9e573b1a9277913458f,5ff4345f3546075b51c10f8d00bdfde31a222df7ec0fc0f370c5113c6f6398f0,./Windows/Microsoft.NET/Framework/v2.0.50727/repository/Microsoft.GroupPoli#/57018ce946731c64da9753b613a8cd1e/Microsoft.GroupPolicy.Interop.dll
+< 4071424,b1424d53c39beb2bf4831973e9f7423c,958ea8bc50b3e05f8addfef70fa385187e528a78ee00e479cafc1fa0a8626cae,./Windows/Microsoft.NET/Framework/v2.0.50727/repository/Microsoft.GroupPoli#/7804324c43b5dbbcbf54e48806d5b44a/Microsoft.GroupPolicy.Reporting.dll
+< 455168,49f30a67a2505f821e6024fc3f46df1b,a987d08c9dbdd910ab9736d7536f8f4cfc61db9ec1a25186085d1128a86b4fc4,./Windows/Microsoft.NET/Framework/v2.0.50727/repository/Microsoft.GroupPoli#/e90501ec434e8ed54d347c8f51f1dbb3/Microsoft.GroupPolicy.AdmTmplEditor.dll
+5072,5074d5095
+< 839680,afc4f407894fccb0b46ffe673656d3a2,61f421cc7b3f0e079e73eb2af26dbfce3edc9439bbc93b0d1d9ff4c17a0c0a69,./Windows/Microsoft.NET/Framework/v2.0.50727/repository/Microsoft.Security.#/669316314f7216e578d807a0357b30f0/Microsoft.Security.ApplicationId.Wizards.AutomaticRuleGenerationWizard.dll
+< 294912,7c6374872a40af422d7f930c89ac276c,e0bafd1dc2d7866bc748d647a52c12d85c680de8d0d895566f269cd611473d43,./Windows/Microsoft.NET/Framework/v2.0.50727/repository/SecurityAuditPolici#/9c4bf09d4655edf52c77b8b23eff445c/SecurityAuditPoliciesSnapIn.dll
+< 1351168,9e88a9072259e40dcdb92851747a39d4,661f6ae32815bde44b24e342a8a5ecacd887165135b15081b0210c2ec732fd17,./Windows/Microsoft.NET/Framework/v2.0.50727/repository/SrpUxSnapIn/b3616d9249ffacace9b2548168f0ba01/SrpUxSnapIn.dll
+5619,5623c5640,5644
+< 332116,4aa917805d72abff251c3eba7bec6c69,c7060bf222a3946b918737becafcb4ca677795d30e4e3a42a5e77da9f2b0b711,./Windows/Prefetch/AgAppLaunch.db
+< 57002,bb0f0606a699b74a6e1a99f9650d1ee9,7d04b2db39d04165ab7333ccbcf7a5a3b82c6abfa79e439084760be68af900a9,./Windows/Prefetch/AgGlFaultHistory.db
+< 45376,21ff699ca78bbbbfab869e50fc107175,e3daebc1b15f68daefe5c401453abb6ee6f8da824fed3e34609a59486b70e3a9,./Windows/Prefetch/AgGlFgAppHistory.db
+< 310455,e3df81628397059dc8700a1845ff3d73,0eeedb3f83d6b304970b3bf9ce3fd162f7f10f8a9330f1863aa7e8d30eb203aa,./Windows/Prefetch/AgGlGlobalHistory.db
+< 71964,f9104d123ba502d52196ecec72df8e4c,395f75d5e0e08ce0ceab725a043459a9cef5910157b72c24ffe1e2a5b7666558,./Windows/Prefetch/AgRobust.db
+---
+> 332116,b0c5f375c5de390e56984b137506c0c9,315bd67bd7971a1327fa0d2e69b8746c705da55d6e164fe4e17e64e5aafe6a1f,./Windows/Prefetch/AgAppLaunch.db
+> 116623,7d2866d81dde8d08de48293cc02e5b1a,dfae6f6108e704c206271a8dcd5c5969db2baf94828486e1d06f8d6c4c52f391,./Windows/Prefetch/AgGlFaultHistory.db
+> 74082,9c33019e54eb6fc73760e56279cd4397,8a98c3cd53a77833a5f02c466aa860589e52b33a9b5bcbff024faa3bb461c86e,./Windows/Prefetch/AgGlFgAppHistory.db
+> 439003,eb1f0f1ff1141212818ec89dd91112c3,c68aae2e8a0703e0c16b53013c32e1ab9b7772c18834580a78ad31e8b1716276,./Windows/Prefetch/AgGlGlobalHistory.db
+> 81164,cfe20a1cc45b0477b7ef53d59ca22f09,13c4eea6a4b3d944d9e1e6793db2fb31a762be595bb13332150465305eb591c9,./Windows/Prefetch/AgRobust.db
+5625,5628c5646,5653
+< 8596,c27c495658607749f05395cb94a5b8af,82757de3903dc83224023acadb6207d630e65fd51a70f90495441179aa656fc2,./Windows/Prefetch/CONHOST.EXE-1F3E9D7E.pf
+< 14868,b64e83306bd70ab48a61b6b06b061b8a,a10dabf3c085861c59915486771d7b5eb322fc4ef83d58ad7c2caa29add77cf4,./Windows/Prefetch/DLLHOST.EXE-5E46FA0D.pf
+< 22612,c64012d17f68c3f4ac456b421565a23f,a99d54914a118219a2784d7ee57d1aac574b98d7c37f37cbd3a49d895528a161,./Windows/Prefetch/DLLHOST.EXE-766398D2.pf
+< 42896,7cf8da15dc6a8c44ff06827a6b6b84a0,803561d4739f4422cd9b2af8399d0ef1ac3d9a28f9de887fd69558c85624ab41,./Windows/Prefetch/DRVINST.EXE-4CB4314A.pf
+---
+> 9482,d519a0ac7816c5995b4eea6e48708686,0d9970e02872a8de68aa1c8833e978efbd5da3cf96503754cc26bf545978837a,./Windows/Prefetch/CMD.EXE-4A81B364.pf
+> 16196,45ca48740d14fa79a710a70e0a0708c4,99c4e8357782af03082cdac0f90390c8089d2a88f0fef3f777582c964238abbd,./Windows/Prefetch/CONHOST.EXE-1F3E9D7E.pf
+> 86412,3584455c87301e9a2ccc8b3b9f2d2f59,8c20d60749cc344451fbf4b46df2e3826a16a25adadaa588e08e862da4ce9ebb,./Windows/Prefetch/CONSENT.EXE-531BD9EA.pf
+> 16790,1f42bf23931f546d4a2cfa17460d50e8,051d9996047a85f3a0e1b5160e7b4f3ce280ccf476e522be9c6e74ce91d4e571,./Windows/Prefetch/DINOTIFY.EXE-35A869D6.pf
+> 25642,31e89026b6e229ddd5061dcf7be0abc3,3707d47e24eb69ef949693146770f1caa886b8ee6e653cc90cff98c88b88ea4a,./Windows/Prefetch/DLLHOST.EXE-5E46FA0D.pf
+> 27178,51600207788db7c4ca54c75ebee5b265,e322066d0de5371d433ee744e60cfaac184a36bbcd57debb38bd4939595359c3,./Windows/Prefetch/DLLHOST.EXE-6A473D35.pf
+> 29230,b2624652d9bf974c0dd7884318cf2bc0,5017a30b91491fbb764280fa8532b14cc3d14d1e507192fedcd2fa44682ff61d,./Windows/Prefetch/DLLHOST.EXE-766398D2.pf
+> 50872,7d153711d6a37ac0526b8c5c3f8fa40c,57846fa4f572e4ff90d11557279a1249d1d1a7ededbf86a1c35364cf3a99aded,./Windows/Prefetch/DRVINST.EXE-4CB4314A.pf
+5630c5655,5656
+< 46276,6493c5c96b81c717bbb0905af6cae86a,899ba08290e6350f31747e1a84b5abe900657338c9c60847960f4d37a4954859,./Windows/Prefetch/EXPLORER.EXE-A80E4F97.pf
+---
+> 44000,129aed09d07f2e004ad252b9d46847ae,23e1b2f02be9bc970a659479ec735d1cf480086572f3678edefe404d8cf7a633,./Windows/Prefetch/EXPLORER.EXE-A80E4F97.pf
+> 13876,fcb1dced8948c3b390d0abd32ee557f4,d5a2dfdbfcfc4cac8a8acadf1d2dc3b234c8a2c7dcff2924c97dcfa3ede6d1cd,./Windows/Prefetch/FTP.EXE-7BA637EA.pf
+5634c5660
+< 65218,ae630959c222c466ac1adb45d49d6d79,f1b013f5948cef2f5ef4cc33b20977da1569984c09a594585fe641bef9966e2a,./Windows/Prefetch/MSCORSVW.EXE-90526FAC.pf
+---
+> 112488,41e58a3ece9061951d466d8c4b644a50,0190773ab5462d61e303958a70d8965d9db5319c3084968f9bea0d547a2379b7,./Windows/Prefetch/MSCORSVW.EXE-90526FAC.pf
+5637c5663,5664
+< 508,ae6448c462f63b371f3d466a3b1414e4,95337da39cbfbfa6fd399ad513e28ab1075a9305e9478cd83d1379639ade6b70,./Windows/Prefetch/PfSvPerfStats.bin
+---
+> 59046,194721c5a4843abdedda9cdd10913ea5,c4ae20ecfd47e55655cf724f4e5ab4217a685c2b7de4c01ea16fbd2f2915e031,./Windows/Prefetch/PERFMON.EXE-E34F662B.pf
+> 508,455f426ad41e23955818e34f3f8837d6,5fb71cca428d41c8e814d1452779c1c2b2b390fd972ab1de11baec7c128263c9,./Windows/Prefetch/PfSvPerfStats.bin
+5638a5666
+> 1218045,40a4bb747ae7a3d97d2dbb052e710431,20e4ae08290989d2b283a689ae47f913d963a9931992402adee541b7dfa330e6,./Windows/Prefetch/ReadyBoot/Trace2.fx
+5639a5668
+> 23248,22d51a919c114ba16974bfa29c17b5d0,61930afb8c08d673fbfbb8ad3dacca69477d9a6e81f97bc803720f580aafd784,./Windows/Prefetch/RUNDLL32.EXE-53102AED.pf
+5642c5671,5674
+< 14072,66429e8c29c86e4b0bcf3381d2c75021,4557610ca9e2e0499c6e9984fb4e71aafe607f73029d3fc87ed4b25571ccda57,./Windows/Prefetch/SEARCHFILTERHOST.EXE-77482212.pf
+---
+> 12606,7714f57f39b3fd1334ef732aa3574c62,a6e896206d3f56c67453ff9dff5bfcfe304ac9d80d54c29eafa18a8691c4687e,./Windows/Prefetch/RUNDLL32.EXE-DE9673F9.pf
+> 33026,9fea9b02a411c73ed20cab8b12b0d26b,b1875127f7bd6f6f9ee9ba66b07a09820e6a8974b50bcc8f8318c2cbb784f0b9,./Windows/Prefetch/RUNDLL32.EXE-FA00B939.pf
+> 31996,743616f5fd59e81a911eaf3a6152fa3c,e6bb5e878886b16f32eee445339bda80fa3a8c44dff6098d111f46824f810b30,./Windows/Prefetch/RUNDLL32.EXE-FFAE4554.pf
+> 13848,69b382da2ea08d943592828349c1e814,7011c89cff1c7e751c2918c0572d17f3732374a7f41b4d19ea879d7543f45966,./Windows/Prefetch/SEARCHFILTERHOST.EXE-77482212.pf
+5644c5676
+< 10556,882f2509fa901972500331da6130c6de,0ed1a96c808b2f1ed2a2d1f1afd8d36c3ee19248a9d6e90a9b36e58dc59a8747,./Windows/Prefetch/SEARCHPROTOCOLHOST.EXE-0CB8CADE.pf
+---
+> 10568,11c2e774f39d3ac775ce9ab841099ade,9461724863954c39b4d0b03893fbd41918920e91599ed0e60d1af0d7e043a4c1,./Windows/Prefetch/SEARCHPROTOCOLHOST.EXE-0CB8CADE.pf
+5646,5649c5678,5682
+< 91526,9bf7d90cd252d25fe0fb3ff7408f27a2,64f24c1ee5e5e873b75a1abab9240812dfeb962f58681784c02885f6a00decb2,./Windows/Prefetch/SPPSVC.EXE-B0F8131B.pf
+< 19076,1d9e82a376ceabd598ba8d2cc7ce59d2,96df4862218c242842ffb503a8f4cedd00b5f51225afdf333fe514ced1d47b55,./Windows/Prefetch/SVCHOST.EXE-007FEA55.pf
+< 12588,15f994edad3acea8240fa33aeca9a5ea,15d539171098c8d762a671e0ed7bff7723ad64ca9454ee44ace529d532dc8eec,./Windows/Prefetch/SVCHOST.EXE-05F624AB.pf
+< 20876,88454923fc538f66b0d61ada8a3453d8,5a3933d245c4fef365ce3ea1cf99f09e03c0bfbea31b2689e8dce1acf979a491,./Windows/Prefetch/TASKHOST.EXE-7238F31D.pf
+---
+> 88308,64553604cf066bca915e32554bb52741,e7bd50e85864d0d9fd7a71bcd79c195a245be9c735f382becb65123b45ce9644,./Windows/Prefetch/SPPSVC.EXE-B0F8131B.pf
+> 23494,ac84b9a0191f3d94735f7bbeedd6a30b,6f0dc8a3a29a73e04110ad3b063bdf113f7ed80f0295c66ef1784095fa6f9e73,./Windows/Prefetch/SVCHOST.EXE-007FEA55.pf
+> 13236,099bb31084a33d3c022c4cf21b258b58,de3e56fb482333ad9dd98e4fb561d0eeab1fa70cf2d0f30eb154c1b2e64fddfc,./Windows/Prefetch/SVCHOST.EXE-05F624AB.pf
+> 40646,9da5b8ffbb8afa0aa2401c71017346a0,c172a478009809fea1cc31745f788be4857ad14576e0e48607c842280ea68747,./Windows/Prefetch/TASKHOST.EXE-7238F31D.pf
+> 29706,3c7ad337d6397726de631d994d8a4c16,00efe15a75a489fb1543dfd72e0cea4c01467cb0c0dc1e0496cd12f82d40381b,./Windows/Prefetch/TASKMGR.EXE-5F5F473D.pf
+5650a5684,5685
+> 15738,78ce4e3aa96e97bebdfe578620e35ace,8bb511fbc9890c040f8bd23132ae3569343df13f89789a7a2a757e4c3d6333c0,./Windows/Prefetch/WMIADAP.EXE-F8DFDFA2.pf
+> 32118,ac9da253cb30a679e30ceb5fbaa286be,eb55aec9dc200e1f08fb3fd6c68050dda0ac6217b08eb32529a8f9d1d2ef21e4,./Windows/Prefetch/WMIPRVSE.EXE-1628051C.pf
+5697c5732
+< 226304,6659e39dc2c4c0cd7a1cb432b2fd4ac2,2a7cdd45d1d9ae4c7e5e865ba57b81021d5794235f84109a99c1b4f8d5637807,./Windows/ServiceProfiles/LocalService/AppData/Local/FontCache-System.dat
+---
+> 226304,383315962807c5bf05d25d50c195685e,f9a8ea14c86b06f5ec729937677b6e084dcfd3c6f70625940aa7d59f1ed426c9,./Windows/ServiceProfiles/LocalService/AppData/Local/FontCache-System.dat
+5708c5743
+< 262144,f0736fa16843a84b7f684b3cab93f799,d86c86131e89fd0ac9e250f477f6ebca82793318e45dd7da571e500e07269a18,./Windows/ServiceProfiles/LocalService/NTUSER.DAT
+---
+> 262144,1531da7ecc89a8f71d284d9324ff143e,af4bd8e60b8732b93183b6b6776816d34c3987920acd52815116f72d162a88f9,./Windows/ServiceProfiles/LocalService/NTUSER.DAT
+5713c5748
+< 226304,2642848b21568c0756e19121ff95dc1f,62de1b9d05d82e61a787daf02ab3216b67a66b9a11545c5171c5d1276809e954,./Windows/ServiceProfiles/LocalService/NTUSER.DAT.LOG1
+---
+> 226304,29311f5ac5ecf7a59959267093ff77b2,d0b2a7815f5a3fea666917ecdc29d80ceda39312e4c161f5d0e39b39d7d67548,./Windows/ServiceProfiles/LocalService/NTUSER.DAT.LOG1
+5726c5761
+< 262144,51a7c3149673c2e2f8939429309f2139,72e3651b94e75e652aa52cfc97f7bcd27d1b1dc2a54fb6721f83d933c39fd6d5,./Windows/ServiceProfiles/NetworkService/NTUSER.DAT
+---
+> 262144,aa9e08760e2e199fbcdd278b2b5d85fd,02d372154b7bcac6238a2d711f092c39d8928d38efc8479d55e121065bcf035e,./Windows/ServiceProfiles/NetworkService/NTUSER.DAT
+5731c5766
+< 226304,6ba8b395dc07990286b1f7ebaab6f4f2,564ca88929345afceba47008bcb508f0da7b66dca21690981ab5bf9b1ed7bf7e,./Windows/ServiceProfiles/NetworkService/NTUSER.DAT.LOG1
+---
+> 226304,4c58d1a4c02bec065d4916a8e061b50b,0b13e694d03d4d4d63400ba51beb3c2e6177f6a3e428ca28174c8eb3867eb77d,./Windows/ServiceProfiles/NetworkService/NTUSER.DAT.LOG1
+6200c6235
+< 20444,d72068acec44cafc6f50bb68a6c2aca9,be8ed5e551c9f000713bbfc6e54630705c89ed3a788e72cc0c7b327cb74b8b46,./Windows/setupact.log
+---
+> 20500,7aa48182d58e535031ad688659ec3f5a,ff49cb31ca7c7045c782e6bd5c439ee9f794985fd384f4a02469c094a3b9b67d,./Windows/setupact.log
+6204,6206c6239,6241
+< 8454144,32be01798632720f453b0200a75bdb9b,1aa8c24d2e06c03455fb1ce49d9f8e7174ba54260350214b02e4b899a00858fc,./Windows/SoftwareDistribution/DataStore/DataStore.edb
+< 8192,6eca89edf5bb0bf5d43aa484df023c58,5961c445f2972fa97fe75f3e1c050cb6b759808c1a26c06ca4b263121af6e232,./Windows/SoftwareDistribution/DataStore/Logs/edb.chk
+< 1310720,a34408aa6e7781b67d4cc341fe85a501,cd6e35a6a7b088713380cecd9056f40d55160a880a96da8789ea62a0c5889fcb,./Windows/SoftwareDistribution/DataStore/Logs/edb.log
+---
+> 8454144,05f8ff1b0e3bce35157c074f32c81cbe,fe5b710564c1b4a5d77d8e0fde15c58258c193e5c5cd1df47c99675e2eb6d097,./Windows/SoftwareDistribution/DataStore/DataStore.edb
+> 8192,1e5f959cb72c5ffc47e96822336f3be3,fdda9bef1f5607896a1872badac7b3f19377f86f0bb99e3d61ff283399d5b086,./Windows/SoftwareDistribution/DataStore/Logs/edb.chk
+> 1310720,e6bdf8799144a9d222b5571d6a0ae3de,ca18638f99ee51978418774911ca6d239b9acc8e8a8a4dfc00f4cb50ac421283,./Windows/SoftwareDistribution/DataStore/Logs/edb.log
+6236,6237c6271,6272
+< 14896,c759ffdc2e2c87fbd34da4000a0649cf,8205f3305e450ce7a265c92a3f13cdb4774e7bca258ec0ac3de654228076b220,./Windows/System32/7B296FB0-376B-497e-B012-9C450E1B7327-5P-0.C7483456-A289-439d-8115-601632D005A0
+< 14896,c759ffdc2e2c87fbd34da4000a0649cf,8205f3305e450ce7a265c92a3f13cdb4774e7bca258ec0ac3de654228076b220,./Windows/System32/7B296FB0-376B-497e-B012-9C450E1B7327-5P-1.C7483456-A289-439d-8115-601632D005A0
+---
+> 14896,98e222a328be36d3861ba0c4f40b78af,f20935ca68faff7aef4d290d4ced5dbcb7999eb89bcb9b7b012ca0cb1e45f720,./Windows/System32/7B296FB0-376B-497e-B012-9C450E1B7327-5P-0.C7483456-A289-439d-8115-601632D005A0
+> 14896,98e222a328be36d3861ba0c4f40b78af,f20935ca68faff7aef4d290d4ced5dbcb7999eb89bcb9b7b012ca0cb1e45f720,./Windows/System32/7B296FB0-376B-497e-B012-9C450E1B7327-5P-1.C7483456-A289-439d-8115-601632D005A0
+6568c6603
+< 1056768,fcd6baeacaa28653a75ca324548a1f3f,7e4e6c6a6c4d6568f058e4d9efc117f60df26acc07f0018cb1cde31afe05320b,./Windows/System32/catroot2/{127D0A1D-4EF2-11D1-8608-00C04FC295EE}/catdb
+---
+> 1056768,8441651f7bd28e7b5a827976798c4d45,7d4a3b98131165d5eb5c43c258fcf206f0878903540bcac059701f65510eb359,./Windows/System32/catroot2/{127D0A1D-4EF2-11D1-8608-00C04FC295EE}/catdb
+6580,6581c6615,6616
+< 8192,d9c6d1f5edee8b54464fcfacf4c2ccc6,1b23b446dd5ec00da9ddd977bcf92d21db9dd0ee3880eb52c65543db8d54bd8f,./Windows/System32/catroot2/edb.chk
+< 65536,84984682f0b17a3119d152a2d8ab25e0,6b32a318e33fdcf9df6561b1cf05c17838aff8a56ffbc1fc33936e8cb5dda0dd,./Windows/System32/catroot2/edb.log
+---
+> 8192,feb7c0615a85ae4fc345a246062eabdb,df5db01a9a1ceba896cb410b3a035bb51fc05ac294b61f35d6aa9329ffa4be87,./Windows/System32/catroot2/edb.chk
+> 65536,0e9e0e6029e8ab8fed5edb300b9ead2a,ba3db96e0035c4dcd48267746ef0387e384a865243ff448baf76dc9f97da726b,./Windows/System32/catroot2/edb.log
+6584c6619
+< 19668992,d54cb578621595d842d309fb4445d3e0,8e99d5f12203ef595906dae7af1b5901e188819efed8b2afecc502bd92e27f57,./Windows/System32/catroot2/{F750E6C3-38EE-11D1-85E5-00C04FC295EE}/catdb
+---
+> 19668992,5dd34fb232cd81ac4f0d453beac8b2dd,d4a55d0f54c2ff9dc6c04818d580eb070545dd267b2e03871a43036c98cd0ee5,./Windows/System32/catroot2/{F750E6C3-38EE-11D1-85E5-00C04FC295EE}/catdb
+7389c7424
+< 262144,2dee61b9cab366c63889d63e4255d75e,152e23959ca8181ac6aef747d37af153b870fe8e53a169a12fa83ab02a87baac,./Windows/System32/config/DEFAULT
+---
+> 262144,a17917ff16482352ab041d25d8e1bd59,945ff9489866af0acc337630a88a1d61888e0f7592e6c36a4aaa85626ad34930,./Windows/System32/config/DEFAULT
+7391c7426
+< 99328,18370809134a2555484ff63e5aee6433,d5d1fed4d3fae8d19a041072063454baba3e2a6dd5dab952681ae96abac4f96f,./Windows/System32/config/DEFAULT.LOG1
+---
+> 99328,0dc156329c7c13a735e5b9233bf4c2cf,eccb7d5717fc10314663ee37161f9d33a32efc7f578a55369de3f505afbff6b7,./Windows/System32/config/DEFAULT.LOG1
+7399c7434
+< 262144,d7c458dc0633f0b69d837cd3b59a3238,2c525c8ff5b2d5909b8017038fd2b80b191a41a4803fd71819b51b437ed7fd2e,./Windows/System32/config/SAM
+---
+> 262144,65a96d4d7d2fe0a2d34d25ce8c3b8baf,bc259a7f3567ae7a8795ddb2571d63f46d7cd1acf518b412b50660051c18d496,./Windows/System32/config/SAM
+7401c7436
+< 25600,c1a5ff251654e124986b15437cd8e214,907b9a0c82c17633af49a9453babeffc19e18aa6ff503ef0b4aba6022d54c6e5,./Windows/System32/config/SAM.LOG1
+---
+> 25600,d0d06239c2056621674d790bf8445da6,297419e51f96aee3296e14ac1273d7a318f1a28394b15209730ab2bfd2dbf251,./Windows/System32/config/SAM.LOG1
+7403c7438
+< 262144,336580b23e9cadb840c3414ec9dff800,ae155000ac40fe0f6b822e6923a883d138cb49d53a1fd091d21436f92ddce515,./Windows/System32/config/SECURITY
+---
+> 262144,644df7d37c3e1b359a166b760c608ff4,53778fa7fbdebde2fa84ed2904e0c96fd5e70c7a86e4d67d280083657c73e8ae,./Windows/System32/config/SECURITY
+7405c7440
+< 21504,50c80eff9f3daf807337f3459c4aac9f,31e1cac3d5170b9c6f6c6b43bb1ab2a573be376001e039a37ff59ffb5fffbf79,./Windows/System32/config/SECURITY.LOG1
+---
+> 21504,fea507473501edea648157aaafaa6a91,519294cbf1938c9143a85519ef296e9c8d9b43914159d1a1b5959f69532e5511,./Windows/System32/config/SECURITY.LOG1
+7407c7442
+< 21495808,272c99dd1ed3c1218674892735ea0043,f89150e97d8af7f28304c91a314be6906665a2ad976ba789fa2639c88b6cb05c,./Windows/System32/config/SOFTWARE
+---
+> 21495808,2ad80801e4df7f759924e341c9ffc3f0,ffdb56bb2f639a456dc22677aa9d7087d2b52d22e633c13c11069c1becd4eeb7,./Windows/System32/config/SOFTWARE
+7409c7444
+< 262144,f5ed91224e4d8271e20fff329be94c33,7638dfce9c35c64a965ab6cda1012d38f0fcc617792ad1dda33ae1326f6567d8,./Windows/System32/config/SOFTWARE.LOG1
+---
+> 1271808,da0f00640831dc85c5c4bd21ae7bd364,66b18990cfb0907445f88e9fd804a6feefce4f3144a633d899cfaf474a85a564,./Windows/System32/config/SOFTWARE.LOG1
+7411c7446
+< 9437184,4d28c01a2142907c4c9df9927e3f68f5,3da5045e60c282fa84427ffaab66cabb29576b7b40df41b6abe5dcdfd7a55fcf,./Windows/System32/config/SYSTEM
+---
+> 9699328,2ced9be731da079ad2a8503cb4dd0cc7,49b369201c861d049d686475ab45a0a3262abde8cd001e76e8c181c0ffaceac8,./Windows/System32/config/SYSTEM
+7413c7448
+< 3320832,3a94c7984fef9a38658aa1036453ab53,c233e5e72996d6893a1960bd8acd53b9e0d22e6e4d1e54dccf1d1d8852b4e5ad,./Windows/System32/config/SYSTEM.LOG1
+---
+> 262144,4ee85cb3e9a9e61214137b137d89df14,bd1e68102659ce2fd8731e2412a43c8d323203844b0947bfa4b5cac0865833f4,./Windows/System32/config/SYSTEM.LOG1
+7421c7456,7464
+< 245760,9bc7abf97b19af2264e55396742e91fd,8197e5aeebd78eb46c1ad75bfbdc3e9a5e06b13893d23d0b1291cd57be66b8b1,./Windows/System32/config/systemprofile/AppData/Roaming/Microsoft/Windows/IETldCache/index.dat
+---
+> 67,4a3deb274bb5f0212c2419d3d8d08612,2842973d15a14323e08598be1dfb87e54bf88a76be8c7bc94c56b079446edf38,./Windows/System32/config/systemprofile/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/0CPKE658/desktop.ini
+> 67,4a3deb274bb5f0212c2419d3d8d08612,2842973d15a14323e08598be1dfb87e54bf88a76be8c7bc94c56b079446edf38,./Windows/System32/config/systemprofile/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/desktop.ini
+> 32768,2496d58eea2bc9a6bd37ddb6943d74ef,6c434ad6c64f0ee1a92732c83bac60313fb3394917763416a72d1c17f27a3ae0,./Windows/System32/config/systemprofile/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/index.dat
+> 67,4a3deb274bb5f0212c2419d3d8d08612,2842973d15a14323e08598be1dfb87e54bf88a76be8c7bc94c56b079446edf38,./Windows/System32/config/systemprofile/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/O6O91BKG/desktop.ini
+> 67,4a3deb274bb5f0212c2419d3d8d08612,2842973d15a14323e08598be1dfb87e54bf88a76be8c7bc94c56b079446edf38,./Windows/System32/config/systemprofile/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/UU2YHUAL/desktop.ini
+> 67,4a3deb274bb5f0212c2419d3d8d08612,2842973d15a14323e08598be1dfb87e54bf88a76be8c7bc94c56b079446edf38,./Windows/System32/config/systemprofile/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/ZDJZU41Z/desktop.ini
+> 67,4a3deb274bb5f0212c2419d3d8d08612,2842973d15a14323e08598be1dfb87e54bf88a76be8c7bc94c56b079446edf38,./Windows/System32/config/systemprofile/AppData/Local/Microsoft/Windows/Temporary Internet Files/desktop.ini
+> 16384,d7a950fefd60dbaa01df2d85fefb3862,75d0b1743f61b76a35b1fedd32378837805de58d79fa950cb6e8164bfa72073a,./Windows/System32/config/systemprofile/AppData/Roaming/Microsoft/Windows/Cookies/index.dat
+> 262144,44987c193874d3dba957bc60fea7b941,00496eecd7e5742fb6c6256659e2a0d09749b9e65238f0351ca9ec4c6133b014,./Windows/System32/config/systemprofile/AppData/Roaming/Microsoft/Windows/IETldCache/index.dat
+14348c14391
+< 64136,295e658719a9c8ddf558050ecf889026,a2e70f6622bfd76e7ed51107019a4309f805d6a989b65bb317373adaf5cb7495,./Windows/System32/DriverStore/FileRepository/usb.inf_x86_neutral_2620fd493cad7d41/usb.PNF
+---
+> 69336,fe30208a03211bfd3787af1b2b031bfe,f781cc3732b8ca45cc55881afa1cb6738656f966281c1756784f0cc248c8e27a,./Windows/System32/DriverStore/FileRepository/usb.inf_x86_neutral_2620fd493cad7d41/usb.PNF
+14361c14404
+< 54060,1891101398fad54a0799b0e4096c1f7a,29738c4af96185ab8d60383b938d069c0ebab778bc97270e68062c365258e633,./Windows/System32/DriverStore/FileRepository/usbstor.inf_x86_neutral_c77d41a490bdc63d/usbstor.PNF
+---
+> 62176,c80efee363f7c2fa689343c6083eb151,7ff65700a1e9c92af1a11fc9245864df38cb20918fc47615ed0cede4eb5355b1,./Windows/System32/DriverStore/FileRepository/usbstor.inf_x86_neutral_c77d41a490bdc63d/usbstor.PNF
+15490c15533
+< 1024,ce0c859fca6f70ed13fea7fd69f12b43,9b80a765946980b120516620e4f4702ec55d14c430f6a88cff64fc967d134dd7,./Windows/System32/LogFiles/AIT/AitEventLog.etl.001
+---
+> 1024,7c2126bd78e67f8ae58dc174f3f51188,85a449ef902206173fe9ed80891fdc533a4eeb8485a251ae6d5a9e5816c60b88,./Windows/System32/LogFiles/AIT/AitEventLog.etl.001
+15500c15543
+< 12,d21b59ad0470e9e98877e916334129fd,b02b5c944e38df35508233f0ac4b04762ea50c04217d3cd7a551b503c714db1a,./Windows/System32/LogFiles/Scm/1fec2556-9b67-478b-8ae6-cf24bc17bef7
+---
+> 12,5a53dfb408dc365b522ce2fe72c52e94,37d8db192a3cf0bd9986eba14a70a23f6e7088f1117aec104cd98ead4775a1c3,./Windows/System32/LogFiles/Scm/1fec2556-9b67-478b-8ae6-cf24bc17bef7
+15508,15510c15551,15553
+< 12,a48a890388f454311af841994601fa8d,2988e6dcbaa7532e4e43f482b41ee92cbe5d31126a41efa871474dc8f3e26989,./Windows/System32/LogFiles/Scm/3bfab59c-e920-4322-bb42-fbce15886187
+< 20,97bbc39fa8059335e290ce6b09556015,e877930b58be076d79231162f6fff9743931e63b3ad57955eb4464b1597f0434,./Windows/System32/LogFiles/Scm/48fda3db-fdc9-4a7d-b9a1-8dae9284b512
+< 20,48f8d54b46cda5a47cea40f70d255422,1bab6d06ac84db540f89af1d08e82f127afd6c42d25c9526bc276e30409e4f55,./Windows/System32/LogFiles/Scm/496f521a-268c-4496-94e1-6c700bd9ec9c
+---
+> 12,591c4839eefd19f06c191cf862d037ad,70751d14626a293daab1f25b88b55e261cf84502227dbc59ab381974ac9e7719,./Windows/System32/LogFiles/Scm/3bfab59c-e920-4322-bb42-fbce15886187
+> 12,6234af239141b6afeff66170da148533,10f7536697285c63062012f321a4784a0445f38397925717cfc31a09d8f913d2,./Windows/System32/LogFiles/Scm/48fda3db-fdc9-4a7d-b9a1-8dae9284b512
+> 12,af04f32087813c46124341170850d44c,c12bcb104d3247e3a7986c055350f37ff534362b2f46392ef843250f11dc72c7,./Windows/System32/LogFiles/Scm/496f521a-268c-4496-94e1-6c700bd9ec9c
+15520c15563
+< 12,336ad3b491255835969d577e9affc68e,90e8b31f19085a15fbcb30649ae1e9179a88374b6f711dd0d0c117f8199a8f9d,./Windows/System32/LogFiles/Scm/6d7e9e80-6b03-48b6-9817-98e4fe696b72
+---
+> 12,e58089c5e7164faf98fba3fb85cd2739,79dfe207191f6a2d698c7c001ef3a6c1377ec81b1b9015e4c8a88d8507adc5d8,./Windows/System32/LogFiles/Scm/6d7e9e80-6b03-48b6-9817-98e4fe696b72
+15529c15572
+< 20,7127a6e1ca4f38c2e30dd32aaa620bf0,a9c2439a72f9066db67c7deaf67943842934c4aad7eceaf101b7dce894e9f957,./Windows/System32/LogFiles/Scm/9928ac6e-1b09-4767-b0a4-f1ec76ccc1ce
+---
+> 12,6dd61115e3d593bc92f50d10df2d4222,e603ac0437ee758d196e9b2a292633d203d2d559b2d64e01325b5301a92dd511,./Windows/System32/LogFiles/Scm/9928ac6e-1b09-4767-b0a4-f1ec76ccc1ce
+15534c15577
+< 20,f0d162428be44f548a50f704e22744e4,44076e9e96ce58946ba045b415e532b7f5ff1dc7d78de8104c957b30b046cc21,./Windows/System32/LogFiles/Scm/a46c210d-66b4-4ac2-8790-9765e921cd72
+---
+> 12,6dd61115e3d593bc92f50d10df2d4222,e603ac0437ee758d196e9b2a292633d203d2d559b2d64e01325b5301a92dd511,./Windows/System32/LogFiles/Scm/a46c210d-66b4-4ac2-8790-9765e921cd72
+15540c15583
+< 12,8c59762c3fc079394d159e7641d12eab,c0d8bb8b60bd07b7a31a1d8589a22227c8623a69ff7d4c5d157533d2ec71fc03,./Windows/System32/LogFiles/Scm/b9cb2c87-ec29-4d2c-87c9-7924898cc6bb
+---
+> 12,368288bee66cf652eeec5b05379c52ce,9d91372ff588bd50b3de6e8fa5527a6d11c286f4068c8554ecdded8a23ce8cf5,./Windows/System32/LogFiles/Scm/b9cb2c87-ec29-4d2c-87c9-7924898cc6bb
+15548c15591
+< 12,8c59762c3fc079394d159e7641d12eab,c0d8bb8b60bd07b7a31a1d8589a22227c8623a69ff7d4c5d157533d2ec71fc03,./Windows/System32/LogFiles/Scm/e9036e1f-297a-4cce-99f8-4b81d44f3b2c
+---
+> 12,368288bee66cf652eeec5b05379c52ce,9d91372ff588bd50b3de6e8fa5527a6d11c286f4068c8554ecdded8a23ce8cf5,./Windows/System32/LogFiles/Scm/e9036e1f-297a-4cce-99f8-4b81d44f3b2c
+15554a15598
+> 245760,d6e0488ec102451b831961d6d5e1b06c,c259a4311c39e0d3a43c0f5c63d2f4f5c30f78b91a810f4639df5432db5554e4,./Windows/System32/LogFiles/SQM/SQMLogger.etl.001
+15556,15558c15600,15601
+< 456,f46f8717d456e7035bbe3c55ddb08bb4,c88e6a60a347f834b7639b39295ce3328f877284376cad2bc4f343a222f60a40,./Windows/System32/LogFiles/WMI/RtBackup/EtwRTDiagLog.etl
+< 1128,cf4dabd462dd8783a61166a985636f88,4c4dedf3e57ecd344802c9f2a6f375a599c7a452809b253c0bcb7d8090c12096,./Windows/System32/LogFiles/WMI/RtBackup/EtwRTEventLog-Application.etl
+< 1672,a980a69532a63246fa9ac20947b50fee,dd341f07272be70142ea912509233291b4e0427733a351c58a871ee48a5c27ef,./Windows/System32/LogFiles/WMI/RtBackup/EtwRTEventLog-System.etl
+---
+> 3064,74e372672b26629eb9b0e7634d68c068,f6fb18831a03c3e791afd58a87daee444836a4534a4d0299db2f7fd08f4d4999,./Windows/System32/LogFiles/WMI/RtBackup/EtwRTDiagLog.etl
+> 3312,27229822ff8e4b4bea9720ba2f6efcc6,542f8a935a145c0e4a9fdb38ec1a9ca90abd49918b7f39502b29c4b97bae90d0,./Windows/System32/LogFiles/WMI/RtBackup/EtwRTEventLog-System.etl
+16628,16629c16671,16672
+< 125856,f1cd5f99d7a52359d492eb6fe97b01c1,3cce1e16c19c0ed15f965af8275be7db4f1ebd0b93d411d4dfc1f44ed4dffbd3,./Windows/System32/perfc007.dat
+< 103496,c59a8e401deddd345b7e51ee174f9219,4f3afaf0cab451d083976dbcc30c0cc1b931b1685075dc47c796e3a5c98330d4,./Windows/System32/perfc009.dat
+---
+> 126188,6b761a1e113adcce0c58a1feb71afac9,a014d764bd09732aeccc2015b482dd8c74edd291b1107f0653b55ee7ea497b9e,./Windows/System32/perfc007.dat
+> 103370,bfecaf64aa25fa7a25b1e54dbe3e47b7,9968a073153c3df62b3dd4bf3cc3d19cc3791a06ed0b501286cd90a7b659f2c8,./Windows/System32/perfc009.dat
+16636,16637c16679,16680
+< 641468,0545c5587670d320dec829814ffdea12,e493e964ee9800dd580b12eb24ad1a27912046fcc96a1ab012ad7cf0b0a8c171,./Windows/System32/perfh007.dat
+< 615122,69d138b4db1204bdc01c7295aecf5532,a4ef58f28b7af77d994cc4508a2c3ffa1f2d061083bd401d5cf3f729e3fded02,./Windows/System32/perfh009.dat
+---
+> 643628,775a010b39cb1ac4956512d9f69ee1f8,704603e26afda3c53b17eb1b9dfbfa095f704fe58b9206f1a6ce97f31d165720,./Windows/System32/perfh007.dat
+> 606992,a6aafee62d8101801d0a388f1102aa26,c27ab34ef65c5e6e8216a71ec1c0611ce9530ae9f8ba047fec179caf4b710edd,./Windows/System32/perfh009.dat
+16645c16688
+< 713888,d17e36acd237ace347bdc131e413d73c,c114ab95bf4c05e1b6944044b43526d9a2e6c3429f378969bda8190c964e8a5d,./Windows/System32/PerfStringBackup.INI
+---
+> 1472002,a3b55e388d91bcbe97434870b4ecc088,99adcac5b743e9ae84aec79d89e61cb630355687a1f839c94aa3eca2c27d36ab,./Windows/System32/PerfStringBackup.INI
+18088c18131
+< 28590,46d08e3a55f007c523ac64dce6dcf478,5b15b1fc32713447c3fbc952a0fb02f1fd78c6f9ac69087bdb240625b0282614,./Windows/System32/wbem/Performance/WmiApRpl.ini
+---
+> 50180,3ad331de45c1882138536ff72eb72ee6,30d47c30895c2f035e87487a839e297817f59689925d7c74a80e51ff42701e1a,./Windows/System32/wbem/Performance/WmiApRpl.ini
+18112,18116c18155,18159
+< 3596288,2ced5a7ba74259a364fd888b1cdad2db,b08f4d85f27cfc54c602c181bd0b830880342b22d9e4735a26cdd83c3aa8b9ac,./Windows/System32/wbem/Repository/INDEX.BTR
+< 57676,a9d5c8b995e05c94d3da666c7f031c63,75edb921fc0fbb623812ba294ea5f6a4324835e3a78e24d1a397d3f15297efa0,./Windows/System32/wbem/Repository/MAPPING1.MAP
+< 57676,f84e6e8e75f091770d00cb8f3df2e676,5c38e7c9a0ca2eb769dfbc3df874f9c26845a3e211b3e2dbac45d74cfd3c57da,./Windows/System32/wbem/Repository/MAPPING2.MAP
+< 57412,cd7280e62d858d57533aa2ee48347eba,2cbfa6ad5b153314398de6f4509419e8f01e7099ce832f03479b9f528d695309,./Windows/System32/wbem/Repository/MAPPING3.MAP
+< 16777216,e2986b1244d30243f78565004fdd387f,a63e3c0177e70198a265078429a423955dda14798e905ff0ac87a9e72ad4e001,./Windows/System32/wbem/Repository/OBJECTS.DATA
+---
+> 5038080,0e1b6f7a7778a3381d4cffe4e2b4f534,1ecf9c1802b09d4edcfb11a961034c4194d679916d19cdef3374aa1d7873fd35,./Windows/System32/wbem/Repository/INDEX.BTR
+> 62580,1214e27df5286f6aca0b309a3d977fc4,e2d4e17222d6dc9e6c7a250e42d56fcbf6054711339833d2571d800bf9b94ea5,./Windows/System32/wbem/Repository/MAPPING1.MAP
+> 62580,39745703c82003acccb45d7e8409fd4b,46dcca0c853ea516767bc2e60d8bd1f9065e0159976eacfab6512ed44502b14f,./Windows/System32/wbem/Repository/MAPPING2.MAP
+> 62580,0f2cffb790d4a9269e9d39352bfd1658,e523749b204552de3e71089c3c8942d60a90170ba5b5c64d97d5b08b032c7997,./Windows/System32/wbem/Repository/MAPPING3.MAP
+> 18653184,08ea5bf398e88288540b15764e1c44bd,bb95fce1784db376f4b669f5eb08adbb5326d6d3ae52e75b9d52db1fbe9efb4a,./Windows/System32/wbem/Repository/OBJECTS.DATA
+18260a18304
+> 229376,e627b0ac2eab8f27fe979bb3a3558cd8,de7ad1641b93248e61729ffbd3e3d4cf4c2f4ddf16164cbad36705c3d952e15f,./Windows/System32/wdi/{86432a0b-3c7d-4ddf-a89c-172faa90485d}/{be8a6068-6bb3-4b95-bde6-4623fb4dbf7f}/snapshot.etl
+18261a18306
+> 304,55ac86cce31e0f10d330bc70146c9bcc,464caf7df358e2e5f78c17cfe7ae9e9090ab027fcaea222f7c8c3c3e8bd3decf,./Windows/System32/wdi/{86432a0b-3c7d-4ddf-a89c-172faa90485d}/S-1-5-21-2665328491-1686873846-3672048924-1000_UserData.bin
+18263c18308
+< 14210,c44ff9a7412a054ca34f075618bf01be,517a163cbeb86d8a4248291fe227f962dd01be178ad3ba36298fe6ba83db24dc,./Windows/System32/wdi/BootPerformanceDiagnostics_SystemData.bin
+---
+> 19192,605b956812b623687fa1604afb303dec,545589a62283ea1451b110a38bbf8de6fc045bb6fdb234cf93b7aad478cb856c,./Windows/System32/wdi/BootPerformanceDiagnostics_SystemData.bin
+18266,18267c18311,18312
+< 2752512,ff0065e986970892e4f9a5bd061b5e00,1454265e831665a9ad79666c374f8c0135631cdf2c670a1c7b90f660c389a611,./Windows/System32/wdi/LogFiles/BootCKCL.etl
+< 786432,a874f9918200ece880a538f8482c8d52,b1e57c2d958141d37b560c3dbee8d303d3f534bb2c32152bdc1752aa671ebacf,./Windows/System32/wdi/LogFiles/ShutdownCKCL.etl
+---
+> 5373952,27e52e24195b68e4022ad9b3380de690,a6c84ea62a8cd1a81e78e1642352a3ee0a072bbb986b566f4218f795bf939ec1,./Windows/System32/wdi/LogFiles/BootCKCL.etl
+> 917504,8a91a7fcc242d487ef0cab7721329e16,d3f45166e927e7d98bab63df7cf3c048b4428fac91e866378da856360cb6bdc7,./Windows/System32/wdi/LogFiles/ShutdownCKCL.etl
+18269c18314
+< 425984,4c0a271f841907c01b688429af14ba01,9bab5ef7f7d17a912b29da9a28768d1fb6df6f45fdf61ae9deea24df93d76194,./Windows/System32/wdi/LogFiles/WdiContextLog.etl.002
+---
+> 409600,d2b1dcaa7f02d3b7fa0e540b14dfb08c,c1eca2117ecda9087ca0f7bf6617bf6057c874713059f6afae3ba6f26e17310b,./Windows/System32/wdi/LogFiles/WdiContextLog.etl.002
+18349c18394
+< 16384,c62500b4694921465d282b4ed454bbaf,59be5a45173bb54b847a8a1466a3421a90754b610c8fa421657f2e19804b9adb,./Windows/System32/wfp/wfpdiag.etl
+---
+> 16384,9e7d94d8f61cf8545185ac7cc1a38745,37907a8c17e4d02ba04149203f7990525ef5d7791ff618df843d9537d627af6e,./Windows/System32/wfp/wfpdiag.etl
+18521c18566
+< 1118208,517957a644c455d46f37ea0b70cda7f7,5f0dc2b2d22c4f5b38312038739a4a4145bf0c8cd3e252c8df95366c9041acc8,./Windows/System32/winevt/Logs/Application.evtx
+---
+> 1118208,203eb1df38c34aaf4dc5df19b8fd64f3,41b2398a7fedf31fc591750e0f054f9300e21a318bf63054361be29f2416b2b7,./Windows/System32/winevt/Logs/Application.evtx
+18525,18526c18570,18571
+< 69632,c37188d47b16286155b9418290dc210d,85818933e8ee12320428878fad716e038761ba81feb4a4fb9a5a88fdd0ef76c5,./Windows/System32/winevt/Logs/Microsoft-Windows-Bits-Client%4Operational.evtx
+< 69632,d2cd1b130fbb3d41c40e00abd5f903a7,676d302c9cfb652ee45104e0497dd3de01d29786afe8a7d1bef69555650df3dd,./Windows/System32/winevt/Logs/Microsoft-Windows-BranchCacheSMB%4Operational.evtx
+---
+> 69632,75b48d9464eed46736789433eb95f89d,5cccad37624e204027cedc85e52eeeb7bc86c8e1973d95975d68067477ae632b,./Windows/System32/winevt/Logs/Microsoft-Windows-Bits-Client%4Operational.evtx
+> 69632,ec7e0883058b5ea7ffc7fd40f96ff6d4,2aa6ff326d70def7db6e562f9d87d477d0ef47c42005ade6acdac071018928c7,./Windows/System32/winevt/Logs/Microsoft-Windows-BranchCacheSMB%4Operational.evtx
+18529,18530c18574,18577
+< 69632,685ff00ef32a8cb8a7896bcb08746065,8aa58cecce25f26deaa10c93525e0595d4eb2936a9fb23e794c79b0ae2c41706,./Windows/System32/winevt/Logs/Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+< 69632,d8f6f81c872ca3d03f336dc66ef8dd1d,47e8e88855213d057474ab2d50a2ca309f8d883f17ade1f286c9bd0ac62d7dd2,./Windows/System32/winevt/Logs/Microsoft-Windows-GroupPolicy%4Operational.evtx
+---
+> 69632,50348cb81df68027c873e0615ebe9bf9,7f8b66acacd479a1e249207951bab6da999f6945bf1ede79fb9f71c846eb1694,./Windows/System32/winevt/Logs/Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+> 69632,397324b5b295ddb74e279141fa4ed2c2,a08d13adb4d7d146e0e59a3be73168c063b9d0e24e855dde40dc53ab5f67c63f,./Windows/System32/winevt/Logs/Microsoft-Windows-Diagnosis-Scheduled%4Operational.evtx
+> 69632,b931fc257b760e28856b88c9167e5fae,cc1500dd9d9f5212fbb7b74c36cb16c4c9dd5b9fac86c099e472ba11eec59804,./Windows/System32/winevt/Logs/Microsoft-Windows-Diagnostics-Performance%4Operational.evtx
+> 69632,ce6364ef32f39d66cedb042621dcc146,7c4765cefc786efdccc468e9e5d702ce3d20efa6652733d69a4b8308b14c5c65,./Windows/System32/winevt/Logs/Microsoft-Windows-GroupPolicy%4Operational.evtx
+18534,18535c18581,18582
+< 69632,0a4bf4ca36fbca9852dea612150d902f,a7052842c7b908f6df7bfd28e182891716ddf31259de656fe9b92af06f1d7f52,./Windows/System32/winevt/Logs/Microsoft-Windows-Kernel-WHEA%4Operational.evtx
+< 69632,49be11472ba9d24805aa6579cfb4ebc7,277268a65e47647c7a27e960bc392482d654c9ca3d4cfbfb2f2a6f8ffe894c73,./Windows/System32/winevt/Logs/Microsoft-Windows-Known Folders API Service.evtx
+---
+> 69632,8c58ca85147194e914439e7947115a56,198a94c17221e4ef7d0dbe23e6bcdf3e9fdb9a1d98d5bc3ef442bc52bf4e5e6a,./Windows/System32/winevt/Logs/Microsoft-Windows-Kernel-WHEA%4Operational.evtx
+> 69632,3c89f8d725c5c29f4bc32a930e999625,0ac180199d138817444bc670d7df0ec51088c442d16c61811c38397795cb209c,./Windows/System32/winevt/Logs/Microsoft-Windows-Known Folders API Service.evtx
+18540c18587,18588
+< 69632,2af7095b2c49804af3545b60cb9e2bd3,2f4386a1981fbef956aa27edfe71a0c02546f49f69fd0a876b1acf548001145b,./Windows/System32/winevt/Logs/Microsoft-Windows-OfflineFiles%4Operational.evtx
+---
+> 69632,9c35eb54918fe37a10294a06621917c8,b2dd87fc117eb45ddf677aec413a4a5a8684adacd0f4def635a74a04e5ba4654,./Windows/System32/winevt/Logs/Microsoft-Windows-NetworkAccessProtection%4WHC.evtx
+> 69632,43b6532fd058e2a08a9a63f419d306ee,724840967947a69098a376db7254bffa0ac5e0e4e842575f8092f37953f7ef62,./Windows/System32/winevt/Logs/Microsoft-Windows-OfflineFiles%4Operational.evtx
+18542,18543c18590,18591
+< 69632,f601039f1e1f962a2a97831418f25cc8,38606fd52a8cd7bbb2b19ffa3d9faf0a0bd680087b215510fc9143b86bada9b3,./Windows/System32/winevt/Logs/Microsoft-Windows-ReadyBoost%4Operational.evtx
+< 69632,9e296b0a5fd8fee7d5092fe0fe8235a3,03fa505a5f58546b14b9cd9001723d3471224d061f7f105597f000b5357c5203,./Windows/System32/winevt/Logs/Microsoft-Windows-Resource-Exhaustion-Detector%4Operational.evtx
+---
+> 69632,f204d81d7d8a5c40db40b85cc9361336,b2730982e8ae0a96ef21183ff9e4670664586ab867d1ec97aae9d8decc377b92,./Windows/System32/winevt/Logs/Microsoft-Windows-ReadyBoost%4Operational.evtx
+> 69632,d3a67b96a6febc50a4a29f9f151d85c8,bdea5d8998010291f08722d0f0cb61bc1a80b47200a6ee85dfceccf4f1c41fdc,./Windows/System32/winevt/Logs/Microsoft-Windows-Resource-Exhaustion-Detector%4Operational.evtx
+18545,18546c18593,18595
+< 69632,7f7428ec293ef4b81eaf2e7c6200297d,a6a1c698ea03e6afb8534153b294b207df68b80f85ce314eddcdd2de754ee95d,./Windows/System32/winevt/Logs/Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx
+< 69632,77fd0d2845d10df1f54467a9af2d7a03,67a0d62f5c96137e8fb093aa44e5c066cdc4824cc4c3d391ee8c596f6c5c75c1,./Windows/System32/winevt/Logs/Microsoft-Windows-User Profile Service%4Operational.evtx
+---
+> 69632,f33b9df42ec701c4829c557dae4a687e,b9571f8407dbc6d8d4ae73b4b6c9526f29d673008f5be45b9fb3bc5c0c0c928c,./Windows/System32/winevt/Logs/Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx
+> 69632,659ba266652334b2709546c075c7d41d,bbb61cc779b85dd1ea51a559e6292f035fd200b6b9448780d83518f6d4387290,./Windows/System32/winevt/Logs/Microsoft-Windows-User Profile Service%4Operational.evtx
+> 69632,164756d936e3b400dfea8e10df3c39be,98a9c10db3784df95c5c781af9b16949837588a3ef35fc7816e6ad345474bea5,./Windows/System32/winevt/Logs/Microsoft-Windows-WindowsBackup%4ActionCenter.evtx
+18548c18597
+< 69632,32e435ce79b11be5448f1dfd803bbbd6,569cdb9c22e9e5cd46470f6771ee5200221cf5a2f917d9ee480f1797798808e5,./Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4WHC.evtx
+---
+> 69632,a35c8842688c0e59df8681b311e72825,d4110fadc3124a859582fccc1600e0c3bfc9f554ca81c807e3900ddecf14046f,./Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4WHC.evtx
+18550c18599
+< 69632,90211a1a6e3aafe6d84c9fe626f1c69b,721568cde7a402a1e2ef00a4b68eea8470ed56d1cef198391c51fe17dfb2e208,./Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx
+---
+> 69632,1f1bdaa23457fd4c927b1e66831c2b13,04285ba239fcda8bf43bd0904f4c77cae0266494debcee34eca8b257d059f715,./Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx
+18552c18601
+< 69632,230f7a82b3817788cce8b45efc3ffd9c,bef5e2b2977b382ae622d7cb15472dede601e3449a35bbd548ff20be6c2b05cf,./Windows/System32/winevt/Logs/Microsoft-Windows-WindowsUpdateClient%4Operational.evtx
+---
+> 69632,60b08ea1c4839ba5f9b0112478153dfd,abc721086bfafc76c2db5f8cdb8126f391497c617b6edb04282387b8ffeb0794,./Windows/System32/winevt/Logs/Microsoft-Windows-WindowsUpdateClient%4Operational.evtx
+18554c18603
+< 1118208,d6d4000fcfea9de104ecfa32b68ff3fd,2901cd90a59da251375eada37659994891a026cf37226e61cdb162bffd38e82e,./Windows/System32/winevt/Logs/Security.evtx
+---
+> 1118208,2c688321d6f2c4f3d5e210f3ec19e684,3a0dd84dd7b8ae105e383197aec7798767f988d9fc60510c574873744ee5feea,./Windows/System32/winevt/Logs/Security.evtx
+18556c18605
+< 1118208,0e1397a7f7d53a1ee6cf141bc67228e2,b4e25e1024289efbb5e6375a509075af945d5aa0f83d94dd2547976662ad996c,./Windows/System32/winevt/Logs/System.evtx
+---
+> 1118208,a08ec5d04e4d1292b31d906b1d7c2a29,4847fb0f39c6a6b3838a4bac0825251814f90ea7c40fa22b17831bcd6ea139cb,./Windows/System32/winevt/Logs/System.evtx
+18777c18826
+< 2396,427c9a2c9c0ac3650c323eb784bebf5c,7371f3f744e79dd55c0b8cdf5e8c01b723f7d5e46b9981bd93386f1c157e6d42,./Windows/Tasks/SCHEDLGU.TXT
+---
+> 2648,108aa3957eb593df081180bd42c7978b,9b848cc3b7076b1e5d52aad05e7258fa52a76e85e7e0f349a5ad1e0d5fca574a,./Windows/Tasks/SCHEDLGU.TXT
+18832c18881
+< 2558,d328f4b0562de436a352a4bea9fbbd0c,8b77164ee40943d5b3bf9560e172981a932f27188e2a228b04ee909e6e9d1edc,./Windows/WindowsUpdate.log
+---
+> 6748,751b1019296d602aaa691d6f9d20f62f,97dbecaa235de2b7953a77f6b87b6777244732ca34755472d24713fa16baf6ee,./Windows/WindowsUpdate.log

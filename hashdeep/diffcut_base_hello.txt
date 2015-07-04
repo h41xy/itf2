@@ -1,0 +1,692 @@
+*** base_sort.txt	2015-07-01 10:24:37.834302166 +0200
+--- hello_sort.txt	2015-07-01 10:25:08.534301057 +0200
+***************
+*** 4 ****
+! ## Invoked from: /mnt/base
+--- 4 ----
+! ## Invoked from: /mnt/hello
+***************
+*** 50
+! 558,./ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.1.gthr
+! 8192,./ProgramData/Microsoft/Search/Data/Applications/Windows/MSS.chk
+! 1048576,./ProgramData/Microsoft/Search/Data/Applications/Windows/MSS.log
+--- 50
+! 3762,./ProgramData/Microsoft/Search/Data/Applications/Windows/GatherLogs/SystemIndex/SystemIndex.1.gthr
+! 1048576,./ProgramData/Microsoft/Search/Data/Applications/Windows/MSS00001.log
+! 8192,./ProgramData/Microsoft/Search/Data/Applications/Windows/MSS.chk
+! 1048576,./ProgramData/Microsoft/Search/Data/Applications/Windows/MSS.log
+***************
+*** 54 ****
+--- 56
++ 131072,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/00010001.ci
++ 4096,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/00010001.dir
++ 65536,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/00010001.wid
+***************
+*** 64
+! 240,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/INDEX.000
+! 65536,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/INDEX.001
+! 65536,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/INDEX.002
+--- 68
+! 240,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/INDEX.000
+! 65536,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/INDEX.001
+! 65536,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/Indexer/CiFiles/INDEX.002
+***************
+*** 68
+! 240,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/PropMap/CiPT0000.000
+! 65536,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/PropMap/CiPT0000.001
+! 65536,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/PropMap/CiPT0000.002
+! 240,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/SecStore/CiST0000.000
+! 65536,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/SecStore/CiST0000.001
+! 65536,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/SecStore/CiST0000.002
+! 75563008,./ProgramData/Microsoft/Search/Data/Applications/Windows/Windows.edb
+--- 72
+! 240,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/PropMap/CiPT0000.000
+! 65536,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/PropMap/CiPT0000.001
+! 65536,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/PropMap/CiPT0000.002
+! 240,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/SecStore/CiST0000.000
+! 65536,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/SecStore/CiST0000.001
+! 65536,./ProgramData/Microsoft/Search/Data/Applications/Windows/Projects/SystemIndex/SecStore/CiST0000.002
+! 42008576,./ProgramData/Microsoft/Search/Data/Applications/Windows/Windows.edb
+***************
+*** 119 ****
+! 7194,./ProgramData/Microsoft/Windows Defender/Support/MPLog-07132009-211939.log
+--- 123 ----
+! 8798,./ProgramData/Microsoft/Windows Defender/Support/MPLog-07132009-211939.log
+***************
+*** 1163
+! 262144,./System Volume Information/Syscache.hve
+! 37888,./System Volume Information/Syscache.hve.LOG1
+--- 1167
+! 262144,./System Volume Information/Syscache.hve
+! 37888,./System Volume Information/Syscache.hve.LOG1
+***************
+*** 1199 ****
+! 777534,./Users/itf/AppData/Local/IconCache.db
+--- 1203
+! 57560,./Users/itf/AppData/Local/GDIPFONTCACHEV1.DAT
+! 784183,./Users/itf/AppData/Local/IconCache.db
+***************
+*** 1214 ****
+! 16384,./Users/itf/AppData/Local/Microsoft/Windows/Caches/cversions.1.db
+--- 1219
+! 118688,./Users/itf/AppData/Local/Microsoft/Windows/Caches/{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000002.db
+! 16384,./Users/itf/AppData/Local/Microsoft/Windows/Caches/cversions.1.db
+***************
+*** 1216 ****
+! 16384,./Users/itf/AppData/Local/Microsoft/Windows/Explorer/ExplorerStartupLog_RunOnce.etl
+--- 1222 ----
+! 16384,./Users/itf/AppData/Local/Microsoft/Windows/Explorer/ExplorerStartupLog_RunOnce.etl
+***************
+*** 1218
+! 1048576,./Users/itf/AppData/Local/Microsoft/Windows/Explorer/thumbcache_256.db
+! 24,./Users/itf/AppData/Local/Microsoft/Windows/Explorer/thumbcache_32.db
+! 24,./Users/itf/AppData/Local/Microsoft/Windows/Explorer/thumbcache_96.db
+! 3256,./Users/itf/AppData/Local/Microsoft/Windows/Explorer/thumbcache_idx.db
+--- 1224
+! 1048576,./Users/itf/AppData/Local/Microsoft/Windows/Explorer/thumbcache_256.db
+! 1048576,./Users/itf/AppData/Local/Microsoft/Windows/Explorer/thumbcache_32.db
+! 1048576,./Users/itf/AppData/Local/Microsoft/Windows/Explorer/thumbcache_96.db
+! 3256,./Users/itf/AppData/Local/Microsoft/Windows/Explorer/thumbcache_idx.db
+***************
+*** 1296 ****
+! 262144,./Users/itf/AppData/Local/Microsoft/Windows/UsrClass.dat
+--- 1302 ----
+! 262144,./Users/itf/AppData/Local/Microsoft/Windows/UsrClass.dat
+***************
+*** 1300 ****
+! 62464,./Users/itf/AppData/Local/Microsoft/Windows/UsrClass.dat.LOG1
+--- 1306 ----
+! 111616,./Users/itf/AppData/Local/Microsoft/Windows/UsrClass.dat.LOG1
+***************
+*** 1301 ****
+--- 1308 ----
++ 2090,./Users/itf/AppData/Local/Microsoft/Windows/WER/ReportQueue/NonCritical_x86_9d4293d7273b75136a91a5ac9c50d2ca12e4f5fa_cab_00f56685/Report.wer
+***************
+*** 1385 ****
+! 524288,./Users/itf/NTUSER.DAT
+--- 1392 ----
+! 524288,./Users/itf/NTUSER.DAT
+***************
+*** 1389 ****
+! 262144,./Users/itf/ntuser.dat.LOG1
+--- 1396 ----
+! 262144,./Users/itf/ntuser.dat.LOG1
+***************
+*** 1419 ****
+! 10474,./Windows/AppCompat/Programs/RecentFileCache.bcf
+--- 1426 ----
+! 10844,./Windows/AppCompat/Programs/RecentFileCache.bcf
+***************
+*** 1756 ****
+- 0,./Windows/assembly/NativeImages_v2.0.50727_32/index117.dat
+--- 1762 ----
+***************
+*** 1757 ****
+--- 1764
++ 0,./Windows/assembly/NativeImages_v2.0.50727_32/index11d.dat
++ 0,./Windows/assembly/NativeImages_v2.0.50727_32/index11e.dat
+***************
+*** 1768 ****
+--- 1777
++ 455168,./Windows/assembly/NativeImages_v2.0.50727_32/Microsoft.GroupPoli#/1901ba5041844f16d62ecf639548c760/Microsoft.GroupPolicy.AdmTmplEditor.ni.dll
++ 286208,./Windows/assembly/NativeImages_v2.0.50727_32/Microsoft.GroupPoli#/4795e3a744b493733f9f2696a5cd8a67/Microsoft.GroupPolicy.Interop.ni.dll
++ 4071424,./Windows/assembly/NativeImages_v2.0.50727_32/Microsoft.GroupPoli#/85e2ad8f9450cce0f286d4b0f30a6490/Microsoft.GroupPolicy.Reporting.ni.dll
+***************
+*** 1782 ****
+--- 1794 ----
++ 839680,./Windows/assembly/NativeImages_v2.0.50727_32/Microsoft.Security.#/a5ec735587b0edad7c38d73be036d594/Microsoft.Security.ApplicationId.Wizards.AutomaticRuleGenerationWizard.ni.dll
+***************
+*** 1819 ****
+--- 1832 ----
++ 294912,./Windows/assembly/NativeImages_v2.0.50727_32/SecurityAuditPolici#/9f42f279254e7093355c44d5ef3f04cc/SecurityAuditPoliciesSnapIn.ni.dll
+***************
+*** 1821 ****
+--- 1835 ----
++ 1351168,./Windows/assembly/NativeImages_v2.0.50727_32/SrpUxSnapIn/abf672b5f9dd842eacdc0c004376dd7b/SrpUxSnapIn.ni.dll
+***************
+*** 1933 ****
+! 67584,./Windows/bootstat.dat
+--- 1947 ----
+! 67584,./Windows/bootstat.dat
+***************
+*** 4129
+! 1693080,./Windows/inf/setupapi.dev.log
+! 4896,./Windows/inf/setupapi.ev1
+! 3832,./Windows/inf/setupapi.ev2
+! 30720,./Windows/inf/setupapi.ev3
+--- 4143
+! 1849391,./Windows/inf/setupapi.dev.log
+! 5400,./Windows/inf/setupapi.ev1
+! 4216,./Windows/inf/setupapi.ev2
+! 30720,./Windows/inf/setupapi.ev3
+***************
+*** 4191 ****
+! 68520,./Windows/inf/usb.PNF
+--- 4205 ----
+! 69336,./Windows/inf/usb.PNF
+***************
+*** 4197 ****
+! 57608,./Windows/inf/usbstor.PNF
+--- 4211 ----
+! 62176,./Windows/inf/usbstor.PNF
+***************
+*** 4285 ****
+! 28590,./Windows/inf/WmiApRpl/0009/WmiApRpl.ini
+--- 4299
+! 50180,./Windows/inf/WmiApRpl/0007/WmiApRpl.ini
+! 50180,./Windows/inf/WmiApRpl/0009/WmiApRpl.ini
+***************
+*** 5052 ****
+! 1155298,./Windows/Microsoft.NET/Framework/v2.0.50727/ngen_service.log
+--- 5067 ----
+! 1194944,./Windows/Microsoft.NET/Framework/v2.0.50727/ngen_service.log
+***************
+*** 5068
+- 286208,./Windows/Microsoft.NET/Framework/v2.0.50727/repository/Microsoft.GroupPoli#/57018ce946731c64da9753b613a8cd1e/Microsoft.GroupPolicy.Interop.dll
+- 4071424,./Windows/Microsoft.NET/Framework/v2.0.50727/repository/Microsoft.GroupPoli#/7804324c43b5dbbcbf54e48806d5b44a/Microsoft.GroupPolicy.Reporting.dll
+- 455168,./Windows/Microsoft.NET/Framework/v2.0.50727/repository/Microsoft.GroupPoli#/e90501ec434e8ed54d347c8f51f1dbb3/Microsoft.GroupPolicy.AdmTmplEditor.dll
+--- 5082 ----
+***************
+*** 5072
+- 839680,./Windows/Microsoft.NET/Framework/v2.0.50727/repository/Microsoft.Security.#/669316314f7216e578d807a0357b30f0/Microsoft.Security.ApplicationId.Wizards.AutomaticRuleGenerationWizard.dll
+- 294912,./Windows/Microsoft.NET/Framework/v2.0.50727/repository/SecurityAuditPolici#/9c4bf09d4655edf52c77b8b23eff445c/SecurityAuditPoliciesSnapIn.dll
+- 1351168,./Windows/Microsoft.NET/Framework/v2.0.50727/repository/SrpUxSnapIn/b3616d9249ffacace9b2548168f0ba01/SrpUxSnapIn.dll
+--- 5083 ----
+***************
+*** 5619
+! 332116,./Windows/Prefetch/AgAppLaunch.db
+! 57002,./Windows/Prefetch/AgGlFaultHistory.db
+! 45376,./Windows/Prefetch/AgGlFgAppHistory.db
+! 310455,./Windows/Prefetch/AgGlGlobalHistory.db
+! 71964,./Windows/Prefetch/AgRobust.db
+--- 5628
+! 332116,./Windows/Prefetch/AgAppLaunch.db
+! 157250,./Windows/Prefetch/AgGlFaultHistory.db
+! 116772,./Windows/Prefetch/AgGlFgAppHistory.db
+! 465351,./Windows/Prefetch/AgGlGlobalHistory.db
+! 109320,./Windows/Prefetch/AgRobust.db
+***************
+*** 5624 ****
+--- 5634 ----
++ 47478,./Windows/Prefetch/COMPMGMTLAUNCHER.EXE-D8C6028E.pf
+***************
+*** 5626
+! 14868,./Windows/Prefetch/DLLHOST.EXE-5E46FA0D.pf
+! 22612,./Windows/Prefetch/DLLHOST.EXE-766398D2.pf
+! 42896,./Windows/Prefetch/DRVINST.EXE-4CB4314A.pf
+--- 5636
+! 86246,./Windows/Prefetch/CONSENT.EXE-531BD9EA.pf
+! 18202,./Windows/Prefetch/DINOTIFY.EXE-35A869D6.pf
+! 27832,./Windows/Prefetch/DLLHOST.EXE-5E46FA0D.pf
+! 62642,./Windows/Prefetch/DLLHOST.EXE-6A473D35.pf
+! 29998,./Windows/Prefetch/DLLHOST.EXE-766398D2.pf
+! 51364,./Windows/Prefetch/DRVINST.EXE-4CB4314A.pf
+***************
+*** 5630 ****
+! 46276,./Windows/Prefetch/EXPLORER.EXE-A80E4F97.pf
+--- 5643 ----
+! 44000,./Windows/Prefetch/EXPLORER.EXE-A80E4F97.pf
+***************
+*** 5634 ****
+! 65218,./Windows/Prefetch/MSCORSVW.EXE-90526FAC.pf
+--- 5647
+! 124534,./Windows/Prefetch/MMC.EXE-561C5A40.pf
+! 115978,./Windows/Prefetch/MSCORSVW.EXE-90526FAC.pf
+***************
+*** 5635 ****
+--- 5650 ----
++ 16398,./Windows/Prefetch/NOTEPAD.EXE-D8414F97.pf
+***************
+*** 5637 ****
+! 508,./Windows/Prefetch/PfSvPerfStats.bin
+--- 5652 ----
+! 508,./Windows/Prefetch/PfSvPerfStats.bin
+***************
+*** 5638 ****
+--- 5654 ----
++ 1218087,./Windows/Prefetch/ReadyBoot/Trace2.fx
+***************
+*** 5639 ****
+--- 5656
++ 24264,./Windows/Prefetch/RUNDLL32.EXE-3CB3B86D.pf
++ 33234,./Windows/Prefetch/RUNDLL32.EXE-686D5ECB.pf
+***************
+*** 5642 ****
+! 14072,./Windows/Prefetch/SEARCHFILTERHOST.EXE-77482212.pf
+--- 5660
+! 12606,./Windows/Prefetch/RUNDLL32.EXE-DE9673F9.pf
+! 30108,./Windows/Prefetch/RUNDLL32.EXE-E17E404A.pf
+! 13848,./Windows/Prefetch/SEARCHFILTERHOST.EXE-77482212.pf
+***************
+*** 5646
+! 91526,./Windows/Prefetch/SPPSVC.EXE-B0F8131B.pf
+! 19076,./Windows/Prefetch/SVCHOST.EXE-007FEA55.pf
+! 12588,./Windows/Prefetch/SVCHOST.EXE-05F624AB.pf
+--- 5666
+! 88308,./Windows/Prefetch/SPPSVC.EXE-B0F8131B.pf
+! 19124,./Windows/Prefetch/SVCHOST.EXE-007FEA55.pf
+! 13152,./Windows/Prefetch/SVCHOST.EXE-05F624AB.pf
+***************
+*** 5650 ****
+--- 5671 ----
++ 28686,./Windows/Prefetch/WMIPRVSE.EXE-1628051C.pf
+***************
+*** 5697 ****
+! 226304,./Windows/ServiceProfiles/LocalService/AppData/Local/FontCache-System.dat
+--- 5718 ----
+! 226304,./Windows/ServiceProfiles/LocalService/AppData/Local/FontCache-System.dat
+***************
+*** 5708 ****
+! 262144,./Windows/ServiceProfiles/LocalService/NTUSER.DAT
+--- 5729 ----
+! 262144,./Windows/ServiceProfiles/LocalService/NTUSER.DAT
+***************
+*** 5713 ****
+! 226304,./Windows/ServiceProfiles/LocalService/NTUSER.DAT.LOG1
+--- 5734 ----
+! 226304,./Windows/ServiceProfiles/LocalService/NTUSER.DAT.LOG1
+***************
+*** 5726 ****
+! 262144,./Windows/ServiceProfiles/NetworkService/NTUSER.DAT
+--- 5747 ----
+! 262144,./Windows/ServiceProfiles/NetworkService/NTUSER.DAT
+***************
+*** 5731 ****
+! 226304,./Windows/ServiceProfiles/NetworkService/NTUSER.DAT.LOG1
+--- 5752 ----
+! 226304,./Windows/ServiceProfiles/NetworkService/NTUSER.DAT.LOG1
+***************
+*** 6200 ****
+! 20444,./Windows/setupact.log
+--- 6221 ----
+! 20500,./Windows/setupact.log
+***************
+*** 6204
+! 8454144,./Windows/SoftwareDistribution/DataStore/DataStore.edb
+! 8192,./Windows/SoftwareDistribution/DataStore/Logs/edb.chk
+! 1310720,./Windows/SoftwareDistribution/DataStore/Logs/edb.log
+--- 6225
+! 8454144,./Windows/SoftwareDistribution/DataStore/DataStore.edb
+! 8192,./Windows/SoftwareDistribution/DataStore/Logs/edb.chk
+! 1310720,./Windows/SoftwareDistribution/DataStore/Logs/edb.log
+***************
+*** 6236
+! 14896,./Windows/System32/7B296FB0-376B-497e-B012-9C450E1B7327-5P-0.C7483456-A289-439d-8115-601632D005A0
+! 14896,./Windows/System32/7B296FB0-376B-497e-B012-9C450E1B7327-5P-1.C7483456-A289-439d-8115-601632D005A0
+--- 6257
+! 14896,./Windows/System32/7B296FB0-376B-497e-B012-9C450E1B7327-5P-0.C7483456-A289-439d-8115-601632D005A0
+! 14896,./Windows/System32/7B296FB0-376B-497e-B012-9C450E1B7327-5P-1.C7483456-A289-439d-8115-601632D005A0
+***************
+*** 6568 ****
+! 1056768,./Windows/System32/catroot2/{127D0A1D-4EF2-11D1-8608-00C04FC295EE}/catdb
+--- 6589 ----
+! 1056768,./Windows/System32/catroot2/{127D0A1D-4EF2-11D1-8608-00C04FC295EE}/catdb
+***************
+*** 6580
+! 8192,./Windows/System32/catroot2/edb.chk
+! 65536,./Windows/System32/catroot2/edb.log
+--- 6601
+! 8192,./Windows/System32/catroot2/edb.chk
+! 65536,./Windows/System32/catroot2/edb.log
+***************
+*** 6584 ****
+! 19668992,./Windows/System32/catroot2/{F750E6C3-38EE-11D1-85E5-00C04FC295EE}/catdb
+--- 6605 ----
+! 19668992,./Windows/System32/catroot2/{F750E6C3-38EE-11D1-85E5-00C04FC295EE}/catdb
+***************
+*** 7389 ****
+! 262144,./Windows/System32/config/DEFAULT
+--- 7410 ----
+! 262144,./Windows/System32/config/DEFAULT
+***************
+*** 7391 ****
+! 99328,./Windows/System32/config/DEFAULT.LOG1
+--- 7412 ----
+! 99328,./Windows/System32/config/DEFAULT.LOG1
+***************
+*** 7399 ****
+! 262144,./Windows/System32/config/SAM
+--- 7420 ----
+! 262144,./Windows/System32/config/SAM
+***************
+*** 7401 ****
+! 25600,./Windows/System32/config/SAM.LOG1
+--- 7422 ----
+! 25600,./Windows/System32/config/SAM.LOG1
+***************
+*** 7403 ****
+! 262144,./Windows/System32/config/SECURITY
+--- 7424 ----
+! 262144,./Windows/System32/config/SECURITY
+***************
+*** 7405 ****
+! 21504,./Windows/System32/config/SECURITY.LOG1
+--- 7426 ----
+! 21504,./Windows/System32/config/SECURITY.LOG1
+***************
+*** 7407 ****
+! 21495808,./Windows/System32/config/SOFTWARE
+--- 7428 ----
+! 21495808,./Windows/System32/config/SOFTWARE
+***************
+*** 7409 ****
+! 262144,./Windows/System32/config/SOFTWARE.LOG1
+--- 7430 ----
+! 1259520,./Windows/System32/config/SOFTWARE.LOG1
+***************
+*** 7411 ****
+! 9437184,./Windows/System32/config/SYSTEM
+--- 7432 ----
+! 9699328,./Windows/System32/config/SYSTEM
+***************
+*** 7413 ****
+! 3320832,./Windows/System32/config/SYSTEM.LOG1
+--- 7434 ----
+! 262144,./Windows/System32/config/SYSTEM.LOG1
+***************
+*** 7421 ****
+! 245760,./Windows/System32/config/systemprofile/AppData/Roaming/Microsoft/Windows/IETldCache/index.dat
+--- 7442
+! 67,./Windows/System32/config/systemprofile/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/1VHEW20J/desktop.ini
+! 67,./Windows/System32/config/systemprofile/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/6B14MDFF/desktop.ini
+! 67,./Windows/System32/config/systemprofile/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/B9B48A0O/desktop.ini
+! 67,./Windows/System32/config/systemprofile/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/desktop.ini
+! 32768,./Windows/System32/config/systemprofile/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/index.dat
+! 67,./Windows/System32/config/systemprofile/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/OHOWD82R/desktop.ini
+! 67,./Windows/System32/config/systemprofile/AppData/Local/Microsoft/Windows/Temporary Internet Files/desktop.ini
+! 16384,./Windows/System32/config/systemprofile/AppData/Roaming/Microsoft/Windows/Cookies/index.dat
+! 262144,./Windows/System32/config/systemprofile/AppData/Roaming/Microsoft/Windows/IETldCache/index.dat
+***************
+*** 14348 ****
+! 64136,./Windows/System32/DriverStore/FileRepository/usb.inf_x86_neutral_2620fd493cad7d41/usb.PNF
+--- 14377 ----
+! 69336,./Windows/System32/DriverStore/FileRepository/usb.inf_x86_neutral_2620fd493cad7d41/usb.PNF
+***************
+*** 14361 ****
+! 54060,./Windows/System32/DriverStore/FileRepository/usbstor.inf_x86_neutral_c77d41a490bdc63d/usbstor.PNF
+--- 14390 ----
+! 62176,./Windows/System32/DriverStore/FileRepository/usbstor.inf_x86_neutral_c77d41a490bdc63d/usbstor.PNF
+***************
+*** 15490 ****
+! 1024,./Windows/System32/LogFiles/AIT/AitEventLog.etl.001
+--- 15519 ----
+! 1024,./Windows/System32/LogFiles/AIT/AitEventLog.etl.001
+***************
+*** 15500 ****
+! 12,./Windows/System32/LogFiles/Scm/1fec2556-9b67-478b-8ae6-cf24bc17bef7
+--- 15529 ----
+! 12,./Windows/System32/LogFiles/Scm/1fec2556-9b67-478b-8ae6-cf24bc17bef7
+***************
+*** 15508 ****
+! 12,./Windows/System32/LogFiles/Scm/3bfab59c-e920-4322-bb42-fbce15886187
+--- 15537 ----
+! 12,./Windows/System32/LogFiles/Scm/3bfab59c-e920-4322-bb42-fbce15886187
+***************
+*** 15520 ****
+! 12,./Windows/System32/LogFiles/Scm/6d7e9e80-6b03-48b6-9817-98e4fe696b72
+--- 15549 ----
+! 12,./Windows/System32/LogFiles/Scm/6d7e9e80-6b03-48b6-9817-98e4fe696b72
+***************
+*** 15540 ****
+! 12,./Windows/System32/LogFiles/Scm/b9cb2c87-ec29-4d2c-87c9-7924898cc6bb
+--- 15569 ----
+! 12,./Windows/System32/LogFiles/Scm/b9cb2c87-ec29-4d2c-87c9-7924898cc6bb
+***************
+*** 15548 ****
+! 12,./Windows/System32/LogFiles/Scm/e9036e1f-297a-4cce-99f8-4b81d44f3b2c
+--- 15577 ----
+! 12,./Windows/System32/LogFiles/Scm/e9036e1f-297a-4cce-99f8-4b81d44f3b2c
+***************
+*** 15554 ****
+--- 15584 ----
++ 262144,./Windows/System32/LogFiles/SQM/SQMLogger.etl.001
+***************
+*** 15556
+! 456,./Windows/System32/LogFiles/WMI/RtBackup/EtwRTDiagLog.etl
+! 1128,./Windows/System32/LogFiles/WMI/RtBackup/EtwRTEventLog-Application.etl
+! 1672,./Windows/System32/LogFiles/WMI/RtBackup/EtwRTEventLog-System.etl
+--- 15586
+! 456,./Windows/System32/LogFiles/WMI/RtBackup/EtwRTDiagLog.etl
+! 2152,./Windows/System32/LogFiles/WMI/RtBackup/EtwRTEventLog-System.etl
+***************
+*** 16628
+! 125856,./Windows/System32/perfc007.dat
+! 103496,./Windows/System32/perfc009.dat
+--- 16657
+! 126188,./Windows/System32/perfc007.dat
+! 103370,./Windows/System32/perfc009.dat
+***************
+*** 16636
+! 641468,./Windows/System32/perfh007.dat
+! 615122,./Windows/System32/perfh009.dat
+--- 16665
+! 643628,./Windows/System32/perfh007.dat
+! 606992,./Windows/System32/perfh009.dat
+***************
+*** 16645 ****
+! 713888,./Windows/System32/PerfStringBackup.INI
+--- 16674 ----
+! 1472002,./Windows/System32/PerfStringBackup.INI
+***************
+*** 18088 ****
+! 28590,./Windows/System32/wbem/Performance/WmiApRpl.ini
+--- 18117 ----
+! 50180,./Windows/System32/wbem/Performance/WmiApRpl.ini
+***************
+*** 18112
+! 3596288,./Windows/System32/wbem/Repository/INDEX.BTR
+! 57676,./Windows/System32/wbem/Repository/MAPPING1.MAP
+! 57676,./Windows/System32/wbem/Repository/MAPPING2.MAP
+! 57412,./Windows/System32/wbem/Repository/MAPPING3.MAP
+! 16777216,./Windows/System32/wbem/Repository/OBJECTS.DATA
+--- 18141
+! 5038080,./Windows/System32/wbem/Repository/INDEX.BTR
+! 62572,./Windows/System32/wbem/Repository/MAPPING1.MAP
+! 62572,./Windows/System32/wbem/Repository/MAPPING2.MAP
+! 62572,./Windows/System32/wbem/Repository/MAPPING3.MAP
+! 18636800,./Windows/System32/wbem/Repository/OBJECTS.DATA
+***************
+*** 18260 ****
+--- 18290 ----
++ 229376,./Windows/System32/wdi/{86432a0b-3c7d-4ddf-a89c-172faa90485d}/{f6475fca-2015-406e-8909-4fd997ada2e7}/snapshot.etl
+***************
+*** 18261 ****
+--- 18292 ----
++ 304,./Windows/System32/wdi/{86432a0b-3c7d-4ddf-a89c-172faa90485d}/S-1-5-21-2665328491-1686873846-3672048924-1000_UserData.bin
+***************
+*** 18263 ****
+! 14210,./Windows/System32/wdi/BootPerformanceDiagnostics_SystemData.bin
+--- 18294 ----
+! 19192,./Windows/System32/wdi/BootPerformanceDiagnostics_SystemData.bin
+***************
+*** 18266
+! 2752512,./Windows/System32/wdi/LogFiles/BootCKCL.etl
+! 786432,./Windows/System32/wdi/LogFiles/ShutdownCKCL.etl
+--- 18297
+! 4587520,./Windows/System32/wdi/LogFiles/BootCKCL.etl
+! 851968,./Windows/System32/wdi/LogFiles/ShutdownCKCL.etl
+***************
+*** 18269 ****
+! 425984,./Windows/System32/wdi/LogFiles/WdiContextLog.etl.002
+--- 18300 ----
+! 409600,./Windows/System32/wdi/LogFiles/WdiContextLog.etl.002
+***************
+*** 18349 ****
+! 16384,./Windows/System32/wfp/wfpdiag.etl
+--- 18380 ----
+! 16384,./Windows/System32/wfp/wfpdiag.etl
+***************
+*** 18521 ****
+! 1118208,./Windows/System32/winevt/Logs/Application.evtx
+--- 18552 ----
+! 1118208,./Windows/System32/winevt/Logs/Application.evtx
+***************
+*** 18525
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Bits-Client%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-BranchCacheSMB%4Operational.evtx
+--- 18556
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-API-Tracing%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-AppID%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Application-Experience%4Problem-Steps-Recorder.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Application-Experience%4Program-Compatibility-Assistant.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Application-Experience%4Program-Compatibility-Troubleshooter.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Application-Experience%4Program-Inventory.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Application-Experience%4Program-Telemetry.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-AppLocker%4EXE and DLL.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-AppLocker%4MSI and Script.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Audio%4CaptureMonitor.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Audio%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Authentication User Interface%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Backup.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Bits-Client%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-BranchCache%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-BranchCacheSMB%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-CodeIntegrity%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-CorruptedFileRecovery-Client%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-CorruptedFileRecovery-Server%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-DateTimeControlPanel%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-DeviceSync%4Operational.evtx
+***************
+*** 18527 ****
+--- 18578 ----
++ 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-DhcpNap%4Admin.evtx
+***************
+*** 18529
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-GroupPolicy%4Operational.evtx
+--- 18580
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Diagnosis-PCW%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Diagnosis-PLA%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Diagnosis-Scheduled%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Diagnosis-Scripted%4Admin.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Diagnosis-Scripted%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Diagnostics-Networking%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Diagnostics-Performance%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-DiskDiagnostic%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-DiskDiagnosticDataCollector%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-DiskDiagnosticResolver%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-DriverFrameworks-UserMode%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-EapHost%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-EventCollector%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Fault-Tolerant-Heap%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-FMS%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Folder Redirection%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Forwarding%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-GroupPolicy%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Help%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-HomeGroup Control Panel%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-HomeGroup Listener Service%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-HomeGroup Provider Service%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-IKE%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-International%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-International-RegionalOptionsControlPanel%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Iphlpsvc%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Kernel-EventTracing%4Admin.evtx
+***************
+*** 18532 ****
+--- 18611 ----
++ 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Kernel-WDI%4Operational.evtx
+***************
+*** 18534
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Kernel-WHEA%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Known Folders API Service.evtx
+--- 18613
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Kernel-WHEA%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Known Folders API Service.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-LanguagePackSetup%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-MCT%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-MemoryDiagnostics-Results%4Debug.evtx
+***************
+*** 18540 ****
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-OfflineFiles%4Operational.evtx
+--- 18622
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-NetworkAccessProtection%4WHC.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-NetworkLocationWizard%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-NetworkProfile%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-NlaSvc%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-NTLM%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-OfflineFiles%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-ParentalControls%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-PeopleNearMe%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-PowerShell%4Operational.evtx
+***************
+*** 18542
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-ReadyBoost%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Resource-Exhaustion-Detector%4Operational.evtx
+--- 18632
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-ReadyBoost%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-ReadyBoostDriver%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Recovery%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-ReliabilityAnalysisComponent%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-RemoteApp and Desktop Connections%4Admin.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-RemoteAssistance%4Admin.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-RemoteAssistance%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/microsoft-windows-RemoteDesktopServices-RemoteDesktopSessionManager%4Admin.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Resource-Exhaustion-Detector%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Resource-Exhaustion-Resolver%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Resource-Leak-Diagnostic%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-RestartManager%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Security-Audit-Configuration-Client%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-TerminalServices-ClientUSBDevices%4Admin.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-TerminalServices-ClientUSBDevices%4Operational.evtx
+***************
+*** 18545
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-User Profile Service%4Operational.evtx
+--- 18648
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-TerminalServices-PnPDevices%4Admin.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-TerminalServices-PnPDevices%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-TerminalServices-RDPClient%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-TerminalServices-RemoteConnectionManager%4Admin.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-TerminalServices-RemoteConnectionManager%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-TZUtil%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-UAC%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-UAC-FileVirtualization%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-User Profile Service%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-VDRVROOT%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-VHDMP%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-WER-Diag%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-WFP%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-WindowsBackup%4ActionCenter.evtx
+***************
+*** 18548 ****
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4WHC.evtx
+--- 18664 ----
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4WHC.evtx
+***************
+*** 18550 ****
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx
+--- 18666 ----
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx
+***************
+*** 18552 ****
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-WindowsUpdateClient%4Operational.evtx
+--- 18668 ----
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-WindowsUpdateClient%4Operational.evtx
+***************
+*** 18554 ****
+! 1118208,./Windows/System32/winevt/Logs/Security.evtx
+--- 18670
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-WinRM%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Winsock-WS2HELP%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-Wired-AutoConfig%4Operational.evtx
+! 69632,./Windows/System32/winevt/Logs/Microsoft-Windows-WLAN-AutoConfig%4Operational.evtx
+! 1118208,./Windows/System32/winevt/Logs/Security.evtx
+***************
+*** 18556 ****
+! 1118208,./Windows/System32/winevt/Logs/System.evtx
+--- 18676 ----
+! 1118208,./Windows/System32/winevt/Logs/System.evtx
+***************
+*** 18777 ****
+! 2396,./Windows/Tasks/SCHEDLGU.TXT
+--- 18897 ----
+! 2648,./Windows/Tasks/SCHEDLGU.TXT
+***************
+*** 18832 ****
+! 2558,./Windows/WindowsUpdate.log
+--- 18952 ----
+! 6748,./Windows/WindowsUpdate.log
