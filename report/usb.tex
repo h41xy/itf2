@@ -10,9 +10,9 @@ Das bedeutet, dass ein per USB angeschlossenes Gerät nur dann Daten senden kann
 Sobald an einen USB-Port ein Gerät angeschlossen wird, sendet der Host-Controller ein USB-Reset Signal an das betreffende Gerät.
 Dieses wird dadurch aufgefordert sich neu zu konfigurieren und seinen \textit{Device Descriptor} zu senden.
 Dieser Deskriptor enthält Informationen über die Klasse des Geräts, also als welches Gerät es sich selbst anmelden möchte sowie welcher Treiber dafür geladen werden soll.
-Für das Senden dieses Deskriptors ist die Firmware auf dem Chip verantwortlich.
-Wenn diese manipuliert wurde kann sich das Gerät, z.B. ein USB-Stick, auch als Tastatur identifizieren und beginnen Eingabesignale zu senden wie eine normale Tastatur.
+Für diesen Deskriptor sowie alle weitere Kommunikation zwischen Host-Controller und Peripheriegerät ist eine Art Minibetriebssystem auf dem Anschlussgerät vorhanden, die sogenannte \textit{Firmware}.
+Wenn diese manipuliert wurde kann sich das Gerät, z.B. ein USB-Stick, auch als Tastatur identifizieren und über den vom Host-Controller geladenen, generischen Treiber beginnen Eingabesignale zu senden wie eine normale Tastatur.
 Die Spezifikation ist außerdem so ausgelegt, dass sich Geräte auch mit einem \textit{Interface Deskriptor} anmelden können und somit zwei Geräte gleichzeitig sein können.
 Gewünscht ist dieser Fall bei z.B. Webcams welche sich als Audio aber auch Video Gerät anmelden.
 Dies ist nur ein Beispiel was mit einer Firmwaremanipulation möglich ist.
-Alles was per USB angeschlossen werden kann, kann von einem anderen USB-Gerät über seine imitiert werden.
+Alles was per USB angeschlossen werden kann, kann mit einer Firmwaremanipulation von einem anderen USB-Gerät imitiert werden.
